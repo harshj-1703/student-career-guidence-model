@@ -1,0 +1,1827 @@
+[
+  {
+    "career_name": "Software Engineer",
+    "short_description": "Develops and maintains software applications.",
+    "full_description": "A Software Engineer designs, develops, and maintains software applications for various platforms like web, mobile, and desktop. They write code, debug issues, and optimize performance to ensure smooth user experiences. Software Engineers work in different industries, from healthcare and finance to gaming and e-commerce.\n\nHow to become one? Earn a degree in Computer Science, Software Engineering, or a related field. Learn programming languages like Python, Java, or C++. Gain experience through internships, personal projects, and contributing to open-source software. Build a strong portfolio and stay updated with the latest technologies."
+  },
+  {
+    "career_name": "Frontend Developer",
+    "short_description": "Creates the visual interface of websites and web apps.",
+    "full_description": "A Frontend Developer focuses on designing and developing the part of a website that users see and interact with. They use HTML, CSS, and JavaScript along with frameworks like React, Vue.js, or Angular to create responsive and dynamic interfaces.\n\nHow to become one? Learn HTML, CSS, and JavaScript fundamentals. Master frontend frameworks like React or Vue.js. Practice by building websites and interactive user interfaces. Gain experience through internships, open-source contributions, or freelance projects."
+  },
+  {
+    "career_name": "Backend Developer",
+    "short_description": "Manages the server, database, and logic behind applications.",
+    "full_description": "A Backend Developer builds and maintains the server-side of applications, handling databases, APIs, and business logic. They work with languages like Node.js, Python, Ruby, or Java to ensure smooth data flow between the frontend and backend.\n\nHow to become one? Learn server-side programming languages, databases (SQL, NoSQL), and API development. Understand authentication, security, and cloud hosting. Work on backend projects, build APIs, and contribute to open-source repositories."
+  },
+  {
+    "career_name": "Full-Stack Developer",
+    "short_description": "Works on both frontend and backend development.",
+    "full_description": "A Full-Stack Developer is skilled in both frontend (user interface) and backend (server, database) development. They can build complete web applications from start to finish.\n\nHow to become one? Learn frontend (HTML, CSS, JavaScript, React) and backend (Node.js, Python, SQL). Gain experience in databases, APIs, and cloud deployment. Work on full-stack projects to develop practical skills."
+  },
+  {
+    "career_name": "Mobile App Developer",
+    "short_description": "Builds mobile apps for Android and iOS.",
+    "full_description": "A Mobile App Developer creates applications for mobile devices using native (Kotlin for Android, Swift for iOS) or cross-platform (Flutter, React Native) technologies.\n\nHow to become one? Learn mobile development languages like Kotlin, Swift, or Dart (Flutter). Build and test mobile apps. Publish your apps on app stores to gain real-world experience."
+  },
+  {
+    "career_name": "Game Developer",
+    "short_description": "Creates video games using game engines like Unity or Unreal Engine.",
+    "full_description": "A Game Developer designs and programs video games, handling game mechanics, physics, graphics, and AI. They use languages like C# (Unity) or C++ (Unreal Engine).\n\nHow to become one? Learn game development tools like Unity or Unreal Engine. Practice game programming, animation, and physics. Build small games and improve with each project."
+  },
+  {
+    "career_name": "Cloud Engineer",
+    "short_description": "Manages cloud-based systems and services.",
+    "full_description": "A Cloud Engineer designs, builds, and maintains cloud infrastructure using AWS, Google Cloud, or Microsoft Azure. They optimize applications for scalability and security in the cloud.\n\nHow to become one? Learn cloud computing platforms, networking, and cloud security. Get certifications like AWS Certified Solutions Architect or Google Cloud Professional Engineer."
+  },
+  {
+    "career_name": "DevOps Engineer",
+    "short_description": "Automates and manages software deployment and IT operations.",
+    "full_description": "A DevOps Engineer bridges development and IT operations, automating software deployment and server management using tools like Docker, Kubernetes, and CI/CD pipelines.\n\nHow to become one? Learn automation tools, scripting (Bash, Python), and cloud computing. Gain experience with CI/CD pipelines, Docker, and Kubernetes."
+  },
+  {
+    "career_name": "Cybersecurity Engineer",
+    "short_description": "Protects systems and data from cyber threats.",
+    "full_description": "A Cybersecurity Engineer secures networks, applications, and data from hackers and malware. They use encryption, firewalls, and security monitoring tools to prevent cyber attacks.\n\nHow to become one? Learn cybersecurity principles, ethical hacking, and network security. Get certifications like CEH (Certified Ethical Hacker) or CISSP."
+  },
+  {
+    "career_name": "AI/ML Engineer",
+    "short_description": "Develops artificial intelligence and machine learning models.",
+    "full_description": "An AI/ML Engineer builds AI systems that can learn from data. They work on applications like speech recognition, recommendation systems, and autonomous vehicles.\n\nHow to become one? Learn Python, machine learning algorithms, and frameworks like TensorFlow and PyTorch. Gain experience in AI projects and data science."
+  },
+  {
+    "career_name": "Blockchain Developer",
+    "short_description": "Develops decentralized applications and smart contracts.",
+    "full_description": "A Blockchain Developer builds applications that use blockchain technology for security, transparency, and decentralization. They write smart contracts using Solidity (Ethereum) or Rust (Solana).\n\nHow to become one? Learn blockchain fundamentals, smart contract development, and cryptographic security. Work on blockchain projects and contribute to open-source blockchain protocols."
+  },
+  {
+    "career_name": "Embedded Systems Engineer",
+    "short_description": "Develops software for hardware devices like IoT systems.",
+    "full_description": "An Embedded Systems Engineer writes software for small hardware devices like medical equipment, smartwatches, and IoT devices. They use C, C++, and microcontrollers.\n\nHow to become one? Learn embedded programming and microcontroller development. Gain experience in real-time operating systems (RTOS)."
+  },
+  {
+    "career_name": "Data Engineer",
+    "short_description": "Builds data pipelines and manages big data storage.",
+    "full_description": "A Data Engineer designs and builds systems for storing, processing, and analyzing large datasets. They work with databases, big data technologies, and ETL pipelines.\n\nHow to become one? Learn SQL, data processing tools (Spark, Hadoop), and cloud data platforms. Gain experience in data engineering projects."
+  },
+  {
+    "career_name": "Database Administrator (DBA)",
+    "short_description": "Manages and optimizes database systems.",
+    "full_description": "A Database Administrator ensures databases are fast, secure, and scalable. They optimize database performance and handle backup and recovery processes.\n\nHow to become one? Learn SQL, database management, and security best practices. Get certifications like Oracle Database Administrator or Microsoft SQL Server."
+  },
+  {
+    "career_name": "Software Architect",
+    "short_description": "Designs the structure and technology stack of software applications.",
+    "full_description": "A Software Architect defines the overall structure of software projects, selecting technologies and ensuring scalability, performance, and maintainability.\n\nHow to become one? Gain extensive experience in software development, system design, and project management. Learn architectural patterns and best practices."
+  },
+  {
+    "career_name": "Site Reliability Engineer (SRE)",
+    "short_description": "Ensures system reliability and performance through automation.",
+    "full_description": "An SRE focuses on making applications and infrastructure reliable and scalable. They automate monitoring, logging, and system recovery processes.\n\nHow to become one? Learn cloud computing, automation, and performance monitoring tools. Work on projects that involve system reliability and infrastructure scaling."
+  },
+  {
+    "career_name": "Augmented Reality (AR) / Virtual Reality (VR) Developer",
+    "short_description": "Builds immersive AR/VR experiences using specialized technologies.",
+    "full_description": "An AR/VR Developer creates interactive virtual environments for gaming, training, simulations, and real-world applications like virtual tourism and medical training. They use tools like Unity, Unreal Engine, and ARKit to develop immersive experiences.\n\nHow to become one? Learn game development, 3D modeling, and physics engines like Unity or Unreal Engine. Gain experience with AR/VR devices like Oculus, Microsoft HoloLens, or Magic Leap."
+  },
+  {
+    "career_name": "Robotics Software Engineer",
+    "short_description": "Develops software for autonomous robots and automation systems.",
+    "full_description": "A Robotics Software Engineer writes programs that allow robots to interact with their environment. They work on robotics applications in industries like manufacturing, healthcare, and space exploration, using languages like Python, C++, and ROS (Robot Operating System).\n\nHow to become one? Learn robotics programming, AI, and machine learning. Work on real-time systems and hardware integration. Gain hands-on experience by building robotic prototypes or working on automation projects."
+  },
+  {
+    "career_name": "Embedded AI Engineer",
+    "short_description": "Implements AI models on low-power devices and edge computing systems.",
+    "full_description": "An Embedded AI Engineer optimizes machine learning models to run efficiently on small devices like smartwatches, industrial sensors, and autonomous vehicles. They work with frameworks like TensorFlow Lite, Edge TPU, and NVIDIA Jetson.\n\nHow to become one? Learn embedded programming, AI model optimization, and real-time processing. Gain experience in deploying AI models on microcontrollers and edge devices."
+  },
+  {
+    "career_name": "Quantum Computing Engineer",
+    "short_description": "Develops algorithms and applications for quantum computers.",
+    "full_description": "A Quantum Computing Engineer works with quantum algorithms to solve complex problems in cryptography, optimization, and simulations. They use quantum programming languages like Qiskit, Cirq, and Quipper.\n\nHow to become one? Learn quantum mechanics, linear algebra, and quantum programming. Gain experience with quantum simulators and cloud-based quantum computing platforms like IBM Quantum or Google Quantum AI."
+  },
+  {
+    "career_name": "Computer Vision Engineer",
+    "short_description": "Develops AI models that enable computers to 'see' and interpret images.",
+    "full_description": "A Computer Vision Engineer designs AI models for image recognition, object detection, and real-time video analysis. Their applications include facial recognition, autonomous vehicles, and medical image processing.\n\nHow to become one? Learn Python, OpenCV, and deep learning frameworks like TensorFlow and PyTorch. Gain experience in image processing and AI-driven vision applications."
+  },
+  {
+    "career_name": "High-Performance Computing (HPC) Engineer",
+    "short_description": "Optimizes computing performance for complex simulations and large-scale processing.",
+    "full_description": "An HPC Engineer designs and optimizes algorithms for high-speed computation, used in scientific research, finance, and weather forecasting. They work with supercomputers and parallel computing frameworks like CUDA and MPI.\n\nHow to become one? Learn parallel computing, GPU programming, and performance optimization techniques. Gain experience with HPC clusters and distributed computing."
+  },
+  {
+    "career_name": "Sitecore Developer",
+    "short_description": "Develops enterprise-level websites and content management systems using Sitecore.",
+    "full_description": "A Sitecore Developer builds and customizes Sitecore-based websites, integrating digital marketing tools and personalizing user experiences. Sitecore is widely used in large businesses for content management and customer engagement.\n\nHow to become one? Learn C#, .NET, and Sitecore development. Gain experience in web development and content management systems (CMS)."
+  },
+  {
+    "career_name": "SAP Consultant",
+    "short_description": "Implements SAP solutions for enterprise resource planning (ERP).",
+    "full_description": "An SAP Consultant configures and customizes SAP systems to optimize business operations. They work with enterprise clients to manage supply chains, finance, and HR processes using SAP modules like SAP FICO and SAP HANA.\n\nHow to become one? Learn SAP fundamentals, business processes, and ERP solutions. Get SAP certifications and hands-on experience with SAP implementations."
+  },
+  {
+    "career_name": "Software Test Automation Engineer",
+    "short_description": "Develops automated test scripts to ensure software quality.",
+    "full_description": "A Software Test Automation Engineer creates and maintains automated tests to detect software bugs and improve reliability. They use tools like Selenium, Cypress, and JUnit to automate test cases.\n\nHow to become one? Learn testing frameworks, programming (Python, Java), and CI/CD automation. Gain experience with test automation tools and quality assurance best practices."
+  },
+  {
+    "career_name": "UI/UX Designer",
+    "short_description": "Designs user-friendly interfaces and improves user experience.",
+    "full_description": "A UI/UX Designer focuses on creating visually appealing and easy-to-use digital products. They conduct user research, design wireframes, and build interactive prototypes.\n\nHow to become one? Learn UX design principles, Figma, and Adobe XD. Gain experience through internships, usability testing, and design projects."
+  },
+  {
+    "career_name": "Low-Code/No-Code Developer",
+    "short_description": "Builds applications using platforms with minimal coding.",
+    "full_description": "A Low-Code/No-Code Developer creates applications using drag-and-drop platforms like OutSystems, Bubble, and Microsoft PowerApps. They help businesses develop software quickly without extensive programming knowledge.\n\nHow to become one? Learn no-code tools and logic-based automation. Gain experience building applications using visual programming interfaces."
+  },
+  {
+    "career_name": "Mainframe Developer",
+    "short_description": "Works on legacy enterprise systems and large-scale transaction processing.",
+    "full_description": "A Mainframe Developer maintains and upgrades large-scale computer systems used by banks, insurance companies, and government organizations. They use languages like COBOL and assembly language.\n\nHow to become one? Learn COBOL, JCL, and mainframe architecture. Gain experience in financial and enterprise computing environments."
+  },
+  {
+    "career_name": "Tech Evangelist",
+    "short_description": "Promotes and advocates for new technologies.",
+    "full_description": "A Tech Evangelist educates developers and businesses about new technologies through blogs, public speaking, and community engagement. They often work for technology companies to increase awareness and adoption of their products.\n\nHow to become one? Develop deep technical expertise and strong communication skills. Build an online presence through blogs, social media, and conference talks."
+  },
+  {
+    "career_name": "Digital Forensics Analyst",
+    "short_description": "Investigates cybercrimes and recovers digital evidence.",
+    "full_description": "A Digital Forensics Analyst examines digital devices to investigate cybercrimes, fraud, and hacking incidents. They work with law enforcement and cybersecurity teams to recover deleted data and analyze security breaches.\n\nHow to become one? Learn cybersecurity, forensic tools (FTK, EnCase), and ethical hacking. Get certifications like Certified Computer Examiner (CCE) or GIAC Certified Forensic Analyst (GCFA)."
+  },
+  {
+    "career_name": "Augmented Analytics Engineer",
+    "short_description": "Combines AI with data analytics to improve decision-making.",
+    "full_description": "An Augmented Analytics Engineer builds AI-powered data analysis tools to help businesses make smarter decisions. They work on automation, predictive analytics, and business intelligence.\n\nHow to become one? Learn data science, machine learning, and business intelligence tools like Tableau and Power BI. Gain experience in AI-driven data insights."
+  },
+  {
+    "career_name": "Blockchain Developer",
+    "short_description": "Develops decentralized applications and smart contracts on blockchain networks.",
+    "full_description": "A Blockchain Developer builds secure and transparent applications using blockchain technology. They work with cryptocurrencies, NFTs, smart contracts, and decentralized applications (DApps). They often use Solidity for Ethereum or Rust for Solana blockchain development.\n\nHow to become one? Learn blockchain fundamentals, cryptography, and smart contract programming. Gain experience with blockchain platforms like Ethereum, Hyperledger, or Binance Smart Chain."
+  },
+  {
+    "career_name": "DevOps Engineer",
+    "short_description": "Automates and streamlines software deployment and infrastructure management.",
+    "full_description": "A DevOps Engineer bridges the gap between software development and IT operations. They automate deployment, monitoring, and scaling processes using CI/CD pipelines, cloud platforms, and infrastructure-as-code tools like Docker, Kubernetes, and Terraform.\n\nHow to become one? Learn Linux, cloud computing (AWS, Azure, GCP), and automation tools like Jenkins and Ansible. Gain experience in scripting and monitoring tools."
+  },
+  {
+    "career_name": "AI Ethics Researcher",
+    "short_description": "Studies ethical concerns in artificial intelligence and machine learning applications.",
+    "full_description": "An AI Ethics Researcher ensures AI systems are fair, unbiased, and used responsibly. They work on reducing algorithmic biases, improving data privacy, and setting ethical guidelines for AI applications.\n\nHow to become one? Learn AI/ML, data privacy laws, and ethical frameworks. Gain knowledge of policy-making and interdisciplinary research on AI ethics."
+  },
+  {
+    "career_name": "Cloud Security Engineer",
+    "short_description": "Secures cloud-based applications and infrastructure from cyber threats.",
+    "full_description": "A Cloud Security Engineer protects cloud environments from cyber threats. They work with security tools like AWS IAM, Azure Security Center, and Google Cloud Security Command Center to prevent unauthorized access, data breaches, and cyberattacks.\n\nHow to become one? Learn cloud computing, cybersecurity, and network security. Gain certifications like AWS Certified Security Specialty or Google Professional Cloud Security Engineer."
+  },
+  {
+    "career_name": "Game Developer",
+    "short_description": "Designs and develops interactive video games for various platforms.",
+    "full_description": "A Game Developer creates video games for PCs, consoles, and mobile devices. They use game engines like Unity and Unreal Engine to design characters, environments, and gameplay mechanics.\n\nHow to become one? Learn C++, C#, and game physics. Gain experience in game engines, 3D modeling, and animation."
+  },
+  {
+    "career_name": "Penetration Tester (Ethical Hacker)",
+    "short_description": "Tests and secures applications by finding vulnerabilities before hackers do.",
+    "full_description": "A Penetration Tester, or Ethical Hacker, simulates cyberattacks to identify weaknesses in systems, networks, and applications. They use tools like Metasploit, Burp Suite, and Wireshark.\n\nHow to become one? Learn cybersecurity, ethical hacking, and penetration testing techniques. Obtain certifications like Certified Ethical Hacker (CEH) or Offensive Security Certified Professional (OSCP)."
+  },
+  {
+    "career_name": "Cyber Threat Intelligence Analyst",
+    "short_description": "Monitors and analyzes emerging cyber threats and security risks.",
+    "full_description": "A Cyber Threat Intelligence Analyst collects and analyzes data on cyber threats, helping organizations defend against attacks. They work with security analytics and incident response teams.\n\nHow to become one? Learn cybersecurity, risk assessment, and threat intelligence tools. Gain experience with SIEM platforms like Splunk or IBM QRadar."
+  },
+  {
+    "career_name": "Augmented Analytics Engineer",
+    "short_description": "Uses AI to enhance business intelligence and data-driven decision-making.",
+    "full_description": "An Augmented Analytics Engineer builds AI-powered data analysis tools to help businesses make smarter decisions. They work on automation, predictive analytics, and business intelligence.\n\nHow to become one? Learn data science, machine learning, and business intelligence tools like Tableau and Power BI. Gain experience in AI-driven data insights."
+  },
+  {
+    "career_name": "Bioinformatics Software Developer",
+    "short_description": "Develops software for analyzing biological and genetic data.",
+    "full_description": "A Bioinformatics Software Developer creates tools to analyze DNA sequencing, protein structures, and medical data. They help in scientific research and drug discovery.\n\nHow to become one? Learn biology, Python, and bioinformatics frameworks. Gain experience in data analysis and scientific computing."
+  },
+  {
+    "career_name": "IoT (Internet of Things) Developer",
+    "short_description": "Develops smart devices and IoT applications.",
+    "full_description": "An IoT Developer creates software for smart devices that connect and communicate over the internet. They work on home automation, wearable technology, and industrial IoT.\n\nHow to become one? Learn embedded systems, networking, and IoT platforms like AWS IoT or Azure IoT Hub."
+  },
+  {
+    "career_name": "3D Software Engineer",
+    "short_description": "Develops 3D rendering software and simulations.",
+    "full_description": "A 3D Software Engineer works on graphics rendering, VR/AR applications, and simulations for gaming, architecture, and film industries. They use OpenGL, DirectX, and Vulkan.\n\nHow to become one? Learn computer graphics, 3D mathematics, and game engines like Unity or Unreal Engine."
+  },
+  {
+    "career_name": "Quantum Software Developer",
+    "short_description": "Develops software and algorithms for quantum computing systems.",
+    "full_description": "A Quantum Software Developer creates quantum algorithms for solving complex problems in cryptography, chemistry, and optimization. They use quantum programming languages like Qiskit and Cirq.\n\nHow to become one? Learn quantum computing, mathematics, and quantum algorithms. Gain experience using quantum simulators and cloud-based quantum computing services."
+  },
+  {
+    "career_name": "Medical Software Engineer",
+    "short_description": "Develops software for healthcare applications and medical devices.",
+    "full_description": "A Medical Software Engineer creates software for medical imaging, patient monitoring, and healthcare data management. They ensure compliance with healthcare regulations.\n\nHow to become one? Learn software development, healthcare standards (HIPAA), and medical imaging technologies."
+  },
+  {
+    "career_name": "E-commerce Software Developer",
+    "short_description": "Builds and customizes e-commerce platforms and payment systems.",
+    "full_description": "An E-commerce Software Developer designs online shopping platforms, payment gateways, and order management systems. They work with Shopify, Magento, and WooCommerce.\n\nHow to become one? Learn web development, payment processing, and e-commerce frameworks."
+  },
+  {
+    "career_name": "Technical Program Manager (TPM)",
+    "short_description": "Manages software projects and coordinates between teams.",
+    "full_description": "A Technical Program Manager (TPM) ensures software development projects are completed on time and meet quality standards. They work with developers, designers, and business teams.\n\nHow to become one? Learn project management, Agile methodologies, and software development lifecycle."
+  },
+  {
+    "career_name": "Site Reliability Engineer (SRE)",
+    "short_description": "Ensures software systems run reliably and efficiently at scale.",
+    "full_description": "A Site Reliability Engineer automates operations and monitors system performance to ensure uptime. They use observability tools like Prometheus, Grafana, and ELK stack.\n\nHow to become one? Learn cloud computing, reliability engineering, and incident response."
+  },
+  {
+    "career_name": "Mixed Reality (MR) Developer",
+    "short_description": "Combines AR and VR to create interactive real-world experiences.",
+    "full_description": "A Mixed Reality Developer works on applications that blend physical and digital elements using MR technologies like Microsoft HoloLens and Magic Leap.\n\nHow to become one? Learn Unity, Unreal Engine, and 3D modeling. Gain experience in MR device programming."
+  },
+  {
+    "career_name": "Cardiologist",
+    "short_description": "Specializes in diagnosing and treating heart diseases and conditions.",
+    "full_description": "A Cardiologist is a medical doctor who diagnoses and treats heart-related conditions, including heart attacks, hypertension, and arrhythmias. They perform procedures like angioplasty and pacemaker implantation, and advise patients on heart health and prevention.\n\nHow to become one? Complete an MBBS (Bachelor of Medicine, Bachelor of Surgery), followed by a specialization (MD in Cardiology or DM in Cardiology) after a residency in internal medicine."
+  },
+  {
+    "career_name": "Neurologist",
+    "short_description": "Treats disorders related to the brain, spinal cord, and nerves.",
+    "full_description": "A Neurologist diagnoses and manages disorders such as epilepsy, migraines, stroke, and multiple sclerosis. They conduct neurological examinations and use imaging techniques like MRI and CT scans to assess brain and nerve health.\n\nHow to become one? Earn an MBBS degree, complete a residency in internal medicine, and then specialize in Neurology with an MD or DM in Neurology."
+  },
+  {
+    "career_name": "Neurosurgeon",
+    "short_description": "Performs surgical treatments on the brain, spinal cord, and nervous system.",
+    "full_description": "A Neurosurgeon operates on patients with brain tumors, spinal cord injuries, and neurological disorders. Their work involves complex surgeries, including brain tumor removal and spinal cord decompression.\n\nHow to become one? Obtain an MBBS degree, complete a Master’s in General Surgery (MS), and further specialize in Neurosurgery (MCh in Neurosurgery)."
+  },
+  {
+    "career_name": "Orthopedic Surgeon",
+    "short_description": "Specializes in treating bone, joint, and muscle disorders.",
+    "full_description": "An Orthopedic Surgeon treats fractures, arthritis, and musculoskeletal injuries. They perform surgeries such as knee replacements, spinal surgeries, and sports injury treatments.\n\nHow to become one? Complete an MBBS degree, pursue MS in Orthopedics, and gain hands-on experience through a residency program."
+  },
+  {
+    "career_name": "Pediatrician",
+    "short_description": "A doctor specializing in child health, from infancy to adolescence.",
+    "full_description": "A Pediatrician provides medical care to infants, children, and teenagers, treating common illnesses, developmental disorders, and vaccinations. They also monitor growth and provide preventive healthcare.\n\nHow to become one? Complete an MBBS degree, then pursue an MD in Pediatrics. Additional fellowships in pediatric subspecialties are optional."
+  },
+  {
+    "career_name": "Oncologist",
+    "short_description": "Diagnoses and treats different types of cancer.",
+    "full_description": "An Oncologist specializes in treating cancer through chemotherapy, radiation, and targeted therapies. They work closely with surgeons and radiologists to provide comprehensive cancer treatment.\n\nHow to become one? Earn an MBBS degree, then specialize in Oncology with an MD or DM in Oncology."
+  },
+  {
+    "career_name": "Gynecologist & Obstetrician",
+    "short_description": "Deals with women’s reproductive health, pregnancy, and childbirth.",
+    "full_description": "A Gynecologist & Obstetrician specializes in reproductive health, pregnancy care, and childbirth. They treat conditions like PCOS, infertility, and menopause.\n\nHow to become one? Complete an MBBS degree, then pursue an MS in Obstetrics & Gynecology."
+  },
+  {
+    "career_name": "Dermatologist",
+    "short_description": "Treats skin, hair, and nail disorders, including cosmetic concerns.",
+    "full_description": "A Dermatologist treats conditions like acne, eczema, skin infections, and hair loss. They also perform cosmetic procedures like botox, laser therapy, and mole removal.\n\nHow to become one? Earn an MBBS degree, then specialize with an MD in Dermatology."
+  },
+  {
+    "career_name": "Psychiatrist",
+    "short_description": "Focuses on diagnosing and treating mental health disorders.",
+    "full_description": "A Psychiatrist treats mental health conditions such as depression, anxiety, bipolar disorder, and schizophrenia. They prescribe medications and offer therapy sessions.\n\nHow to become one? Complete an MBBS degree, followed by an MD in Psychiatry."
+  },
+  {
+    "career_name": "Pulmonologist",
+    "short_description": "Specializes in lung and respiratory diseases.",
+    "full_description": "A Pulmonologist treats asthma, chronic obstructive pulmonary disease (COPD), lung infections, and sleep apnea. They perform lung function tests and bronchoscopy procedures.\n\nHow to become one? Earn an MBBS degree, then specialize with an MD in Pulmonology."
+  },
+  {
+    "career_name": "Endocrinologist",
+    "short_description": "Deals with hormonal imbalances and gland-related diseases.",
+    "full_description": "An Endocrinologist diagnoses and treats diabetes, thyroid disorders, obesity, and hormonal imbalances. They work with metabolic disorders and reproductive health issues.\n\nHow to become one? Complete an MBBS degree, followed by an MD in Endocrinology."
+  },
+  {
+    "career_name": "Nephrologist",
+    "short_description": "Specializes in kidney-related diseases and disorders.",
+    "full_description": "A Nephrologist treats conditions like kidney failure, kidney stones, and high blood pressure. They manage dialysis treatments and kidney transplants.\n\nHow to become one? Complete an MBBS degree, pursue an MD in Nephrology, and gain experience through residency programs."
+  },
+  {
+    "career_name": "Gastroenterologist",
+    "short_description": "Diagnoses and treats digestive system disorders.",
+    "full_description": "A Gastroenterologist treats diseases affecting the stomach, intestines, liver, and pancreas. They perform endoscopic procedures to diagnose conditions like ulcers, GERD, and liver disease.\n\nHow to become one? Obtain an MBBS degree, then specialize with an MD in Gastroenterology."
+  },
+  {
+    "career_name": "Radiologist",
+    "short_description": "Interprets medical images like X-rays, MRIs, and CT scans.",
+    "full_description": "A Radiologist uses imaging techniques to diagnose diseases and injuries. They play a crucial role in detecting fractures, tumors, and organ abnormalities.\n\nHow to become one? Complete an MBBS degree, followed by an MD in Radiology."
+  },
+  {
+    "career_name": "Ophthalmologist",
+    "short_description": "Specializes in eye health, vision care, and eye surgeries.",
+    "full_description": "An Ophthalmologist treats conditions like cataracts, glaucoma, and retinal disorders. They perform laser eye surgery, corneal transplants, and vision correction procedures.\n\nHow to become one? Earn an MBBS degree, then specialize with an MS in Ophthalmology."
+  },
+  {
+    "career_name": "Urologist",
+    "short_description": "Focuses on urinary tract and male reproductive system disorders.",
+    "full_description": "A Urologist treats kidney stones, urinary tract infections, prostate enlargement, and male infertility. They perform surgeries like kidney stone removal and prostate surgery.\n\nHow to become one? Complete an MBBS degree, then specialize with an MS or MCh in Urology."
+  },
+  {
+    "career_name": "Forensic Pathologist",
+    "short_description": "Performs autopsies and investigates causes of death.",
+    "full_description": "A Forensic Pathologist examines bodies and collects medical evidence for criminal investigations. They work closely with law enforcement and legal teams.\n\nHow to become one? Obtain an MBBS degree, then specialize with an MD in Forensic Medicine."
+  },
+  {
+    "career_name": "General Surgeon",
+    "short_description": "Performs surgeries for a variety of medical conditions.",
+    "full_description": "A General Surgeon carries out operations such as appendectomy, hernia repair, and gallbladder removal. They handle emergency and planned surgeries across multiple organ systems.\n\nHow to become one? Earn an MBBS degree, then specialize with an MS in General Surgery."
+  },
+  {
+    "career_name": "Anesthesiologist",
+    "short_description": "Administers anesthesia and monitors patients during surgery.",
+    "full_description": "An Anesthesiologist ensures patient safety during surgery by providing anesthesia and pain management. They work with surgical teams to manage pain and sedation levels.\n\nHow to become one? Complete an MBBS degree, then specialize with an MD in Anesthesiology."
+  },
+  {
+    "career_name": "Rheumatologist",
+    "short_description": "Specializes in diagnosing and treating arthritis and autoimmune diseases.",
+    "full_description": "A Rheumatologist treats conditions like rheumatoid arthritis, lupus, and osteoporosis. They focus on reducing pain, inflammation, and joint damage through medications and therapies.\n\nHow to become one? Earn an MBBS degree, complete an MD in Internal Medicine, and then pursue a DM in Rheumatology."
+  },
+  {
+    "career_name": "Geriatrician",
+    "short_description": "Focuses on medical care for elderly patients.",
+    "full_description": "A Geriatrician specializes in treating age-related diseases such as dementia, osteoporosis, and mobility issues. They help improve the quality of life for senior citizens through medication and therapy.\n\nHow to become one? Complete an MBBS degree, specialize in Geriatrics with an MD in Geriatric Medicine."
+  },
+  {
+    "career_name": "Allergist & Immunologist",
+    "short_description": "Diagnoses and treats allergies, asthma, and immune system disorders.",
+    "full_description": "An Allergist & Immunologist helps patients with conditions like food allergies, asthma, and immune deficiencies. They conduct allergy tests and recommend treatments such as immunotherapy.\n\nHow to become one? Obtain an MBBS degree, then specialize with an MD in Immunology or Allergy & Clinical Immunology."
+  },
+  {
+    "career_name": "Hematologist",
+    "short_description": "Specializes in blood disorders and diseases.",
+    "full_description": "A Hematologist treats conditions like anemia, leukemia, and clotting disorders. They conduct blood tests, prescribe treatments, and work with oncologists for blood cancer patients.\n\nHow to become one? Complete an MBBS degree, pursue an MD in Internal Medicine, and then specialize with a DM in Hematology."
+  },
+  {
+    "career_name": "Plastic Surgeon",
+    "short_description": "Performs reconstructive and cosmetic surgeries.",
+    "full_description": "A Plastic Surgeon corrects deformities, performs cosmetic procedures like rhinoplasty, liposuction, and breast augmentation, and reconstructs damaged skin due to injuries or burns.\n\nHow to become one? Earn an MBBS degree, specialize in General Surgery (MS), and then pursue a further specialization (MCh) in Plastic Surgery."
+  },
+  {
+    "career_name": "Otolaryngologist (ENT Specialist)",
+    "short_description": "Treats conditions related to the ear, nose, and throat.",
+    "full_description": "An ENT Specialist treats hearing loss, sinus infections, throat disorders, and performs surgeries like tonsillectomies and cochlear implants.\n\nHow to become one? Obtain an MBBS degree, then specialize with an MS in ENT."
+  },
+  {
+    "career_name": "Sports Medicine Physician",
+    "short_description": "Treats sports injuries and improves athletic performance.",
+    "full_description": "A Sports Medicine Physician diagnoses and treats injuries like fractures, sprains, and muscle tears. They work with athletes to enhance performance and prevent injuries.\n\nHow to become one? Complete an MBBS degree, specialize in Orthopedics or Internal Medicine, and obtain further certification in Sports Medicine."
+  },
+  {
+    "career_name": "Palliative Care Physician",
+    "short_description": "Provides medical care for terminally ill patients.",
+    "full_description": "A Palliative Care Physician focuses on pain management and emotional support for patients with chronic illnesses such as cancer, ensuring comfort in end-of-life care.\n\nHow to become one? Earn an MBBS degree, then specialize in Palliative Medicine through an MD or a fellowship program."
+  },
+  {
+    "career_name": "Pathologist",
+    "short_description": "Analyzes lab samples to diagnose diseases.",
+    "full_description": "A Pathologist examines tissues, blood samples, and other biological specimens to diagnose diseases such as infections and cancer. They work in laboratories, conducting biopsies and autopsies.\n\nHow to become one? Complete an MBBS degree, then specialize with an MD in Pathology."
+  },
+  {
+    "career_name": "Clinical Geneticist",
+    "short_description": "Diagnoses and manages genetic disorders.",
+    "full_description": "A Clinical Geneticist identifies genetic conditions like Down syndrome and hereditary cancers. They advise patients on genetic risks and treatments.\n\nHow to become one? Obtain an MBBS degree, specialize with an MD in Medical Genetics, and complete a fellowship in Clinical Genetics."
+  },
+  {
+    "career_name": "Emergency Medicine Specialist",
+    "short_description": "Provides urgent care for medical emergencies and trauma.",
+    "full_description": "An Emergency Medicine Specialist treats patients in critical situations such as accidents, heart attacks, and strokes. They work in emergency rooms and trauma centers.\n\nHow to become one? Complete an MBBS degree, then specialize in Emergency Medicine with an MD or a fellowship."
+  },
+  {
+    "career_name": "Occupational Medicine Physician",
+    "short_description": "Focuses on workplace health and injury prevention.",
+    "full_description": "An Occupational Medicine Physician helps employees recover from work-related injuries and ensures safe working environments through preventive care and health assessments.\n\nHow to become one? Earn an MBBS degree, then pursue a specialization in Occupational Medicine."
+  },
+  {
+    "career_name": "Reproductive Endocrinologist",
+    "short_description": "Specializes in infertility and hormonal reproductive disorders.",
+    "full_description": "A Reproductive Endocrinologist helps couples with fertility treatments such as IVF. They diagnose hormonal imbalances affecting reproductive health.\n\nHow to become one? Complete an MBBS degree, specialize in Obstetrics & Gynecology (MS), and obtain additional training in Reproductive Endocrinology."
+  },
+  {
+    "career_name": "Medical Examiner",
+    "short_description": "Investigates causes of death in suspicious cases.",
+    "full_description": "A Medical Examiner performs autopsies and toxicology tests to determine causes of death in unnatural or criminal cases. They work with law enforcement agencies.\n\nHow to become one? Obtain an MBBS degree, then specialize in Forensic Medicine with an MD."
+  },
+  {
+    "career_name": "Sleep Medicine Specialist",
+    "short_description": "Diagnoses and treats sleep disorders.",
+    "full_description": "A Sleep Medicine Specialist treats conditions such as insomnia, sleep apnea, and narcolepsy. They conduct sleep studies and prescribe treatments for better sleep quality.\n\nHow to become one? Earn an MBBS degree, then pursue further certification in Sleep Medicine."
+  },
+  {
+    "career_name": "Medical Toxicologist",
+    "short_description": "Treats poisoning and drug overdose cases.",
+    "full_description": "A Medical Toxicologist diagnoses and treats poisoning, drug overdoses, and chemical exposures. They work in hospitals and emergency departments.\n\nHow to become one? Complete an MBBS degree, then specialize with an MD in Medical Toxicology or Emergency Medicine."
+  },
+  {
+    "career_name": "Hyperbaric Medicine Specialist",
+    "short_description": "Uses oxygen therapy to treat injuries and conditions.",
+    "full_description": "A Hyperbaric Medicine Specialist treats patients with carbon monoxide poisoning, wound healing issues, and decompression sickness using high-pressure oxygen chambers.\n\nHow to become one? Obtain an MBBS degree, then specialize in Hyperbaric Medicine through additional certification."
+  },
+  {
+    "career_name": "Aerospace Medicine Specialist",
+    "short_description": "Focuses on the health of pilots and astronauts.",
+    "full_description": "An Aerospace Medicine Specialist ensures the well-being of pilots and astronauts by studying the effects of high altitude, space travel, and air pressure changes on the body.\n\nHow to become one? Complete an MBBS degree, then specialize in Aerospace Medicine through an MD or a fellowship."
+  },
+  {
+    "career_name": "Medical Illustrator",
+    "short_description": "Creates visual representations of medical concepts.",
+    "full_description": "A Medical Illustrator produces detailed images of human anatomy, medical procedures, and biological concepts for textbooks, research, and patient education.\n\nHow to become one? Earn a degree in Medical Illustration, often combined with healthcare education."
+  },
+  {
+    "career_name": "Pharmacist",
+    "short_description": "Dispenses medications and advises patients on drug use.",
+    "full_description": "A Pharmacist is responsible for preparing, dispensing, and advising patients about medications prescribed by doctors. They ensure safe drug use, educate patients on side effects, and sometimes provide vaccinations. Pharmacists work in hospitals, retail pharmacies, and pharmaceutical companies.\n\nHow to become one? Earn a Bachelor of Pharmacy (B.Pharm) or Doctor of Pharmacy (Pharm.D) degree and obtain a pharmacist license."
+  },
+  {
+    "career_name": "Pharmaceutical Scientist",
+    "short_description": "Researches and develops new drugs and treatments.",
+    "full_description": "A Pharmaceutical Scientist conducts research to discover and develop new medications. They study drug interactions, effectiveness, and safety before approval for public use. Their work is essential in developing life-saving treatments.\n\nHow to become one? Obtain a Bachelor’s degree in Pharmacy, Chemistry, or Biology, followed by a Master’s or Ph.D. in Pharmaceutical Sciences."
+  },
+  {
+    "career_name": "Clinical Research Associate",
+    "short_description": "Manages clinical trials for new drug testing.",
+    "full_description": "A Clinical Research Associate (CRA) ensures that clinical trials for new drugs comply with regulatory guidelines. They monitor test results, ensure patient safety, and report findings to pharmaceutical companies or regulatory agencies like the FDA.\n\nHow to become one? Earn a degree in Pharmacy, Life Sciences, or Medicine, and gain certification in clinical research."
+  },
+  {
+    "career_name": "Regulatory Affairs Specialist",
+    "short_description": "Ensures compliance with drug laws and regulations.",
+    "full_description": "A Regulatory Affairs Specialist helps pharmaceutical companies comply with government regulations. They ensure new drugs meet legal safety standards before reaching the market.\n\nHow to become one? Complete a degree in Pharmacy, Life Sciences, or Chemistry and take certification courses in regulatory affairs."
+  },
+  {
+    "career_name": "Pharmacovigilance Officer",
+    "short_description": "Monitors and evaluates drug safety after approval.",
+    "full_description": "A Pharmacovigilance Officer assesses the safety of medications after they have been released to the public. They track side effects, adverse reactions, and report safety concerns to regulatory bodies.\n\nHow to become one? Obtain a Pharmacy or Life Sciences degree and specialize in pharmacovigilance."
+  },
+  {
+    "career_name": "Medical Science Liaison (MSL)",
+    "short_description": "Acts as a bridge between pharmaceutical companies and healthcare providers.",
+    "full_description": "A Medical Science Liaison provides scientific information to doctors and researchers about new drugs and treatments. They collaborate with healthcare professionals to promote medical advancements.\n\nHow to become one? Earn a Doctor of Pharmacy (Pharm.D) or Ph.D. in a life sciences field and gain industry experience."
+  },
+  {
+    "career_name": "Formulation Scientist",
+    "short_description": "Develops the composition of new drugs.",
+    "full_description": "A Formulation Scientist works on designing and testing drug formulations, ensuring they are effective, stable, and suitable for patient use.\n\nHow to become one? Obtain a degree in Pharmacy, Pharmaceutical Sciences, or Chemistry and specialize in drug formulation."
+  },
+  {
+    "career_name": "Toxicologist",
+    "short_description": "Studies the effects of drugs and chemicals on the human body.",
+    "full_description": "A Toxicologist investigates how drugs, chemicals, and environmental toxins affect human health. They help ensure that new drugs are safe before they are marketed.\n\nHow to become one? Earn a degree in Pharmacy, Toxicology, or a related field and complete further specialization."
+  },
+  {
+    "career_name": "Industrial Pharmacist",
+    "short_description": "Works in pharmaceutical manufacturing and quality control.",
+    "full_description": "An Industrial Pharmacist is responsible for the large-scale production of medications, ensuring quality and regulatory compliance. They oversee drug formulation, manufacturing, and packaging.\n\nHow to become one? Obtain a Bachelor’s or Master’s in Pharmacy and gain experience in pharmaceutical manufacturing."
+  },
+  {
+    "career_name": "Biopharmaceutical Scientist",
+    "short_description": "Develops drugs derived from biological sources.",
+    "full_description": "A Biopharmaceutical Scientist specializes in creating medications from living organisms, such as vaccines and gene therapy drugs. They work in labs to develop treatments for various diseases.\n\nHow to become one? Earn a degree in Biotechnology, Pharmacy, or Biopharmaceutical Sciences and gain research experience."
+  },
+  {
+    "career_name": "Quality Control Analyst",
+    "short_description": "Ensures that pharmaceutical products meet safety and quality standards.",
+    "full_description": "A Quality Control Analyst tests drugs for purity, potency, and safety before they are distributed. They play a crucial role in maintaining high-quality pharmaceutical products.\n\nHow to become one? Obtain a degree in Pharmacy, Chemistry, or Life Sciences and gain experience in pharmaceutical quality control."
+  },
+  {
+    "career_name": "Medical Writer",
+    "short_description": "Writes scientific documents, drug reports, and healthcare content.",
+    "full_description": "A Medical Writer creates research papers, drug trial reports, and educational materials for pharmaceutical companies, healthcare professionals, and patients.\n\nHow to become one? Earn a degree in Pharmacy, Life Sciences, or Medicine and develop writing skills through specialized training."
+  },
+  {
+    "career_name": "Pharmaceutical Sales Representative",
+    "short_description": "Promotes and sells medications to healthcare providers.",
+    "full_description": "A Pharmaceutical Sales Representative works for drug companies, marketing medications to doctors and hospitals. They explain drug benefits, answer medical questions, and provide samples.\n\nHow to become one? Obtain a degree in Pharmacy, Life Sciences, or Business with knowledge of medical products."
+  },
+  {
+    "career_name": "Hospital Pharmacist",
+    "short_description": "Dispenses medications and advises hospital patients.",
+    "full_description": "A Hospital Pharmacist provides prescriptions to inpatients, ensuring the correct dosages and drug combinations. They also monitor patient progress and drug interactions.\n\nHow to become one? Earn a Bachelor of Pharmacy (B.Pharm) or Doctor of Pharmacy (Pharm.D) degree and work in a hospital setting."
+  },
+  {
+    "career_name": "Community Pharmacist",
+    "short_description": "Works in retail pharmacies, providing medications and health advice.",
+    "full_description": "A Community Pharmacist dispenses prescriptions, educates patients about medications, and offers basic healthcare services such as vaccinations.\n\nHow to become one? Obtain a degree in Pharmacy (B.Pharm or Pharm.D) and acquire a pharmacist license."
+  },
+  {
+    "career_name": "Veterinary Pharmacist",
+    "short_description": "Prepares and dispenses medications for animals.",
+    "full_description": "A Veterinary Pharmacist specializes in providing drugs for pets and livestock, working with veterinarians to ensure proper animal healthcare.\n\nHow to become one? Earn a degree in Pharmacy and obtain certification in Veterinary Pharmacy."
+  },
+  {
+    "career_name": "Pharmaceutical Business Manager",
+    "short_description": "Manages pharmaceutical companies, sales, and marketing.",
+    "full_description": "A Pharmaceutical Business Manager oversees the commercial side of the pharmaceutical industry, handling marketing strategies, sales operations, and company growth.\n\nHow to become one? Earn a degree in Pharmacy or Business Administration with a specialization in pharmaceutical management."
+  },
+  {
+    "career_name": "Compounding Pharmacist",
+    "short_description": "Creates customized medications for patients.",
+    "full_description": "A Compounding Pharmacist prepares personalized medications by altering drug formulations to meet specific patient needs, such as allergy-free drugs or unique dosages.\n\nHow to become one? Obtain a Pharmacy degree and gain specialized training in compounding pharmacy."
+  },
+  {
+    "career_name": "Pharmaceutical Data Analyst",
+    "short_description": "Analyzes pharmaceutical industry data to improve drug development.",
+    "full_description": "A Pharmaceutical Data Analyst interprets market trends, research findings, and clinical trial data to assist in drug manufacturing and regulatory decisions.\n\nHow to become one? Earn a degree in Pharmacy, Statistics, or Data Science and gain experience in healthcare analytics."
+  },
+  {
+    "career_name": "Mechanical Engineer",
+    "short_description": "Designs and builds mechanical systems and machines.",
+    "full_description": "A Mechanical Engineer specializes in designing, analyzing, and manufacturing mechanical systems, such as engines, machinery, and tools. They work in industries like automotive, aerospace, energy, and robotics.\n\nHow to become one? Earn a Bachelor’s degree in Mechanical Engineering (B.E. or B.Tech.), gain practical experience through internships, and get certified if required."
+  },
+  {
+    "career_name": "Civil Engineer",
+    "short_description": "Designs and supervises construction projects.",
+    "full_description": "A Civil Engineer is responsible for planning, designing, and overseeing infrastructure projects such as roads, bridges, buildings, and water supply systems. They ensure structures are safe, durable, and environmentally friendly.\n\nHow to become one? Obtain a Bachelor’s degree in Civil Engineering (B.E. or B.Tech.), gain experience in construction projects, and obtain professional certifications."
+  },
+  {
+    "career_name": "Electrical Engineer",
+    "short_description": "Develops electrical systems, power grids, and electronics.",
+    "full_description": "An Electrical Engineer works with electrical power generation, transmission, and distribution systems. They also design and maintain electrical devices such as circuits, motors, and control systems.\n\nHow to become one? Earn a degree in Electrical Engineering, gain practical experience, and obtain a professional license if required."
+  },
+  {
+    "career_name": "Electronics Engineer",
+    "short_description": "Designs and develops electronic devices and circuits.",
+    "full_description": "An Electronics Engineer focuses on designing electronic components such as microprocessors, sensors, and embedded systems. They work in industries like telecommunications, automation, and consumer electronics.\n\nHow to become one? Earn a degree in Electronics Engineering (B.E. or B.Tech.), specialize in a field like VLSI or embedded systems, and gain practical experience."
+  },
+  {
+    "career_name": "Computer Engineer",
+    "short_description": "Develops computer hardware and software systems.",
+    "full_description": "A Computer Engineer works on designing and developing computer hardware (processors, memory, networking devices) and integrates them with software. They work in fields such as artificial intelligence, cybersecurity, and software development.\n\nHow to become one? Obtain a degree in Computer Engineering (B.E., B.Tech.), gain programming skills, and work on hands-on projects."
+  },
+  {
+    "career_name": "Aerospace Engineer",
+    "short_description": "Designs aircraft, spacecraft, and defense systems.",
+    "full_description": "An Aerospace Engineer works on designing, testing, and improving aircraft, satellites, and defense systems. They specialize in aerodynamics, propulsion, and avionics.\n\nHow to become one? Earn a degree in Aerospace Engineering, gain practical experience through internships, and work on aerospace projects."
+  },
+  {
+    "career_name": "Automobile Engineer",
+    "short_description": "Designs and manufactures vehicles and transportation systems.",
+    "full_description": "An Automobile Engineer is responsible for designing, developing, and testing vehicles, including cars, bikes, and trucks. They focus on improving vehicle performance, efficiency, and safety.\n\nHow to become one? Obtain a degree in Automobile or Mechanical Engineering, specialize in automotive technology, and work with automobile companies."
+  },
+  {
+    "career_name": "Chemical Engineer",
+    "short_description": "Develops chemical processes for manufacturing industries.",
+    "full_description": "A Chemical Engineer works in industries like pharmaceuticals, petroleum, food processing, and materials science, designing chemical processes for large-scale production.\n\nHow to become one? Earn a degree in Chemical Engineering (B.E. or B.Tech.), gain experience in chemical plants, and obtain necessary safety certifications."
+  },
+  {
+    "career_name": "Biomedical Engineer",
+    "short_description": "Combines engineering and medical sciences to improve healthcare.",
+    "full_description": "A Biomedical Engineer designs and develops medical devices, prosthetics, and imaging systems to improve patient care and medical diagnostics.\n\nHow to become one? Obtain a degree in Biomedical Engineering, specialize in medical devices, and gain experience in the healthcare industry."
+  },
+  {
+    "career_name": "Environmental Engineer",
+    "short_description": "Works on pollution control, waste management, and sustainability.",
+    "full_description": "An Environmental Engineer focuses on solving environmental issues like water pollution, air quality, and waste disposal by designing sustainable solutions.\n\nHow to become one? Earn a degree in Environmental Engineering or Civil Engineering, specialize in sustainability, and work with environmental agencies."
+  },
+  {
+    "career_name": "Marine Engineer",
+    "short_description": "Designs and maintains ships, submarines, and marine structures.",
+    "full_description": "A Marine Engineer is responsible for the mechanical and electrical systems of ships, submarines, and offshore structures. They ensure proper operation and maintenance of maritime machinery.\n\nHow to become one? Earn a degree in Marine Engineering, complete sea-training programs, and obtain certification from maritime authorities."
+  },
+  {
+    "career_name": "Petroleum Engineer",
+    "short_description": "Extracts and processes oil and natural gas resources.",
+    "full_description": "A Petroleum Engineer works on drilling and extracting crude oil and natural gas from underground reservoirs. They use advanced technology to optimize oil recovery.\n\nHow to become one? Obtain a degree in Petroleum Engineering, gain experience in oil exploration, and work with energy companies."
+  },
+  {
+    "career_name": "Nuclear Engineer",
+    "short_description": "Works on nuclear power generation and safety.",
+    "full_description": "A Nuclear Engineer designs and maintains nuclear power plants, ensuring safe energy generation and proper handling of radioactive materials.\n\nHow to become one? Earn a degree in Nuclear Engineering, gain experience in nuclear facilities, and follow regulatory safety standards."
+  },
+  {
+    "career_name": "Robotics Engineer",
+    "short_description": "Develops robots and automation systems.",
+    "full_description": "A Robotics Engineer designs and builds robots for industrial, medical, and space applications. They integrate artificial intelligence and sensors into robotic systems.\n\nHow to become one? Earn a degree in Robotics, Mechanical, or Electronics Engineering, specialize in AI and automation, and work on robotic projects."
+  },
+  {
+    "career_name": "Industrial Engineer",
+    "short_description": "Optimizes manufacturing processes and productivity.",
+    "full_description": "An Industrial Engineer improves efficiency in production and manufacturing by designing better workflows, reducing costs, and improving quality control.\n\nHow to become one? Obtain a degree in Industrial Engineering, gain experience in manufacturing plants, and work with production teams."
+  },
+  {
+    "career_name": "Textile Engineer",
+    "short_description": "Develops fabrics and textile manufacturing processes.",
+    "full_description": "A Textile Engineer works on designing and producing textiles, improving fabric quality, and innovating new materials for the fashion and industrial sectors.\n\nHow to become one? Earn a degree in Textile Engineering and gain experience in fabric production and textile industries."
+  },
+  {
+    "career_name": "Mining Engineer",
+    "short_description": "Extracts minerals and manages mining operations.",
+    "full_description": "A Mining Engineer is responsible for extracting natural resources like coal, metals, and minerals efficiently and safely, minimizing environmental impact.\n\nHow to become one? Obtain a degree in Mining Engineering, gain experience in mining projects, and follow safety regulations."
+  },
+  {
+    "career_name": "Sound Engineer",
+    "short_description": "Manages audio production and sound design.",
+    "full_description": "A Sound Engineer works in the music, film, and broadcasting industries, handling audio mixing, recording, and editing for high-quality sound production.\n\nHow to become one? Earn a degree in Sound Engineering or Audio Production and gain hands-on experience in recording studios."
+  },
+  {
+    "career_name": "Agricultural Engineer",
+    "short_description": "Develops farming equipment and sustainable agricultural practices.",
+    "full_description": "An Agricultural Engineer works on improving farming machinery, irrigation systems, and sustainable farming techniques to increase food production.\n\nHow to become one? Earn a degree in Agricultural Engineering and work on agriculture technology projects."
+  },
+  {
+    "career_name": "Investment Banker",
+    "short_description": "Helps companies raise capital and advises on financial strategies.",
+    "full_description": "An Investment Banker works with corporations, governments, and investors to raise capital through stock offerings, mergers, and acquisitions. They analyze financial markets, create financial models, and provide strategic guidance for business growth.\n\nHow to become one? Earn a degree in Finance, Economics, or Business Administration, gain experience in financial analysis, and pursue certifications like CFA (Chartered Financial Analyst) or MBA in Finance."
+  },
+  {
+    "career_name": "Financial Analyst",
+    "short_description": "Analyzes financial data to help businesses make investment decisions.",
+    "full_description": "A Financial Analyst examines financial statements, market trends, and economic data to guide businesses and individuals in making investment decisions. They work in banks, investment firms, and corporate finance teams.\n\nHow to become one? Obtain a degree in Finance, Accounting, or Economics, develop strong analytical skills, and pursue certifications like CFA or FRM."
+  },
+  {
+    "career_name": "Chartered Accountant (CA)",
+    "short_description": "Manages financial records, taxation, and auditing for businesses.",
+    "full_description": "A Chartered Accountant specializes in financial reporting, taxation, auditing, and compliance. They help businesses optimize their financial strategies and ensure legal financial reporting.\n\nHow to become one? Complete a Bachelor’s degree in Commerce or Accounting, enroll in a Chartered Accountancy program, and pass CA exams."
+  },
+  {
+    "career_name": "Actuary",
+    "short_description": "Analyzes financial risk using mathematics and statistics.",
+    "full_description": "An Actuary evaluates financial risks related to insurance, pensions, and investments. They use probability, statistics, and economic theories to minimize financial uncertainty.\n\nHow to become one? Earn a degree in Mathematics, Actuarial Science, or Finance, pass actuarial certification exams, and gain experience in the insurance or risk management industry."
+  },
+  {
+    "career_name": "Stock Market Trader",
+    "short_description": "Buys and sells stocks and securities for profit.",
+    "full_description": "A Stock Market Trader actively trades stocks, bonds, and commodities in financial markets. They analyze market trends, manage portfolios, and execute trades to maximize returns.\n\nHow to become one? Obtain a degree in Finance, Economics, or Business, gain knowledge of stock trading strategies, and get licensed as a trader."
+  },
+  {
+    "career_name": "Financial Planner",
+    "short_description": "Helps individuals manage their finances and investments.",
+    "full_description": "A Financial Planner provides advice on budgeting, saving, investing, retirement planning, and tax strategies to help clients achieve financial security.\n\nHow to become one? Obtain a degree in Finance or Business, get certified as a CFP (Certified Financial Planner), and build experience in financial consulting."
+  },
+  {
+    "career_name": "Corporate Finance Manager",
+    "short_description": "Manages a company's financial planning and strategy.",
+    "full_description": "A Corporate Finance Manager oversees budgeting, investment strategies, risk management, and financial analysis within a corporation to ensure long-term profitability.\n\nHow to become one? Earn a degree in Finance, Accounting, or Business Administration, gain experience in corporate financial management, and pursue an MBA for career growth."
+  },
+  {
+    "career_name": "Auditor",
+    "short_description": "Ensures businesses comply with financial regulations and standards.",
+    "full_description": "An Auditor reviews financial records to ensure accuracy, compliance, and efficiency in financial operations. They work in government, corporations, and independent firms.\n\nHow to become one? Earn a degree in Accounting or Finance, obtain certifications like CPA (Certified Public Accountant), and gain experience in auditing."
+  },
+  {
+    "career_name": "Risk Analyst",
+    "short_description": "Evaluates financial risks in business decisions and investments.",
+    "full_description": "A Risk Analyst assesses financial, operational, and investment risks in companies to minimize losses and optimize strategies. They work in banks, insurance firms, and corporations.\n\nHow to become one? Obtain a degree in Finance, Economics, or Risk Management, develop analytical skills, and pursue certifications like FRM (Financial Risk Manager)."
+  },
+  {
+    "career_name": "Forensic Accountant",
+    "short_description": "Investigates financial fraud and irregularities.",
+    "full_description": "A Forensic Accountant specializes in detecting financial fraud, money laundering, and embezzlement. They assist in legal investigations and financial dispute resolution.\n\nHow to become one? Earn a degree in Accounting, specialize in forensic accounting, and obtain certifications like CFE (Certified Fraud Examiner)."
+  },
+  {
+    "career_name": "Tax Consultant",
+    "short_description": "Provides expert tax planning and filing services.",
+    "full_description": "A Tax Consultant helps individuals and businesses minimize tax liabilities by advising on deductions, exemptions, and tax-saving investments.\n\nHow to become one? Obtain a degree in Accounting, Finance, or Taxation, gain expertise in tax laws, and acquire certifications like CPA or Enrolled Agent (EA)."
+  },
+  {
+    "career_name": "Hedge Fund Manager",
+    "short_description": "Manages investment funds using high-risk strategies.",
+    "full_description": "A Hedge Fund Manager oversees large investment portfolios, using complex financial instruments to generate high returns for wealthy clients and institutions.\n\nHow to become one? Earn a degree in Finance or Economics, gain experience in investment banking, and develop expertise in hedge fund strategies."
+  },
+  {
+    "career_name": "Insurance Underwriter",
+    "short_description": "Evaluates insurance risks and determines policy terms.",
+    "full_description": "An Insurance Underwriter analyzes risk factors for clients applying for insurance, setting premiums and policy terms accordingly.\n\nHow to become one? Obtain a degree in Finance, Insurance, or Risk Management, gain experience in underwriting, and pursue certifications like CPCU (Chartered Property Casualty Underwriter)."
+  },
+  {
+    "career_name": "Wealth Manager",
+    "short_description": "Manages investment portfolios for high-net-worth individuals.",
+    "full_description": "A Wealth Manager provides personalized financial planning, investment strategies, and estate planning for affluent clients to help them grow and preserve wealth.\n\nHow to become one? Earn a degree in Finance or Economics, gain experience in investment management, and obtain CFP (Certified Financial Planner) or CFA certifications."
+  },
+  {
+    "career_name": "Credit Analyst",
+    "short_description": "Assesses creditworthiness of individuals and businesses.",
+    "full_description": "A Credit Analyst evaluates loan applications and credit risks for banks and financial institutions, ensuring borrowers meet repayment capabilities.\n\nHow to become one? Obtain a degree in Finance or Economics, develop expertise in credit risk analysis, and work in banking or lending institutions."
+  },
+  {
+    "career_name": "Treasury Analyst",
+    "short_description": "Manages an organization’s cash flow and financial assets.",
+    "full_description": "A Treasury Analyst monitors cash reserves, liquidity, and financial investments to ensure a company maintains financial stability and profitability.\n\nHow to become one? Earn a degree in Finance or Accounting, gain experience in corporate finance, and obtain certifications like CTP (Certified Treasury Professional)."
+  },
+  {
+    "career_name": "Mortgage Broker",
+    "short_description": "Connects borrowers with mortgage lenders and negotiates loan terms.",
+    "full_description": "A Mortgage Broker acts as an intermediary between homebuyers and banks, helping them secure the best mortgage rates and loan agreements.\n\nHow to become one? Obtain a degree in Finance or Business, complete licensing requirements, and develop strong negotiation skills."
+  },
+  {
+    "career_name": "Personal Banker",
+    "short_description": "Assists clients with banking, loans, and financial products.",
+    "full_description": "A Personal Banker helps customers open accounts, apply for loans, and manage investments in retail banks.\n\nHow to become one? Earn a degree in Finance or Business, develop customer service skills, and work in the banking sector."
+  },
+  {
+    "career_name": "Venture Capitalist",
+    "short_description": "Invests in startups and emerging businesses.",
+    "full_description": "A Venture Capitalist funds innovative startups with high growth potential, guiding them through expansion in exchange for equity and profits.\n\nHow to become one? Gain experience in investment banking, study market trends, and work with venture capital firms or private equity funds."
+  },
+  {
+    "career_name": "Corporate Lawyer",
+    "short_description": "Advises businesses on legal matters, contracts, and compliance.",
+    "full_description": "A Corporate Lawyer specializes in business law, helping companies with contracts, mergers, acquisitions, intellectual property, and regulatory compliance. They ensure that business operations align with legal frameworks to prevent lawsuits and disputes.\n\nHow to become one? Earn a Bachelor's degree in Law (LLB), specialize in corporate law, gain experience in a law firm or corporate legal department, and pass the bar exam."
+  },
+  {
+    "career_name": "Criminal Lawyer",
+    "short_description": "Defends or prosecutes individuals accused of crimes.",
+    "full_description": "A Criminal Lawyer represents clients in criminal cases, either as a defense attorney protecting the accused or a prosecutor working for the government. They handle trials, investigations, and plea bargains, ensuring justice is served.\n\nHow to become one? Obtain an LLB degree, specialize in criminal law, intern under experienced lawyers, and pass the bar exam to practice."
+  },
+  {
+    "career_name": "Judge",
+    "short_description": "Presides over court proceedings and ensures fair trials.",
+    "full_description": "A Judge interprets laws, evaluates evidence, and makes legal decisions in court. They oversee trials, issue verdicts, and ensure that justice is upheld.\n\nHow to become one? Complete an LLB degree, gain extensive experience as a lawyer, clear judiciary exams, and get appointed as a judge."
+  },
+  {
+    "career_name": "Legal Consultant",
+    "short_description": "Provides legal advice to individuals and businesses.",
+    "full_description": "A Legal Consultant advises clients on legal rights, contracts, disputes, and regulatory issues without directly representing them in court. They help businesses navigate complex legal matters efficiently.\n\nHow to become one? Earn an LLB degree, gain expertise in legal consulting areas, and obtain relevant certifications."
+  },
+  {
+    "career_name": "Intellectual Property Lawyer",
+    "short_description": "Protects copyrights, trademarks, and patents.",
+    "full_description": "An Intellectual Property (IP) Lawyer helps individuals and businesses secure and enforce copyrights, trademarks, patents, and trade secrets. They prevent unauthorized use of creative and industrial assets.\n\nHow to become one? Complete an LLB degree, specialize in intellectual property law, and work with IP law firms or corporate legal teams."
+  },
+  {
+    "career_name": "Human Rights Lawyer",
+    "short_description": "Advocates for individuals facing human rights violations.",
+    "full_description": "A Human Rights Lawyer works to protect fundamental rights such as freedom of speech, equality, and justice. They handle cases related to discrimination, refugee rights, and social justice.\n\nHow to become one? Earn an LLB degree, specialize in human rights law, work with NGOs, and gain legal experience in advocacy."
+  },
+  {
+    "career_name": "Family Lawyer",
+    "short_description": "Handles divorce, child custody, and family disputes.",
+    "full_description": "A Family Lawyer manages legal matters related to family issues, including divorce, child custody, adoption, and domestic violence cases. They mediate disputes and represent clients in family courts.\n\nHow to become one? Obtain an LLB degree, specialize in family law, and work with family law firms."
+  },
+  {
+    "career_name": "Environmental Lawyer",
+    "short_description": "Deals with environmental laws and sustainability regulations.",
+    "full_description": "An Environmental Lawyer advises governments, businesses, and NGOs on laws related to pollution, conservation, climate change, and corporate responsibility towards the environment.\n\nHow to become one? Complete an LLB degree, specialize in environmental law, and work with legal firms focused on sustainability."
+  },
+  {
+    "career_name": "Cyber Law Specialist",
+    "short_description": "Handles cybercrimes, data protection, and internet laws.",
+    "full_description": "A Cyber Law Specialist focuses on legal issues related to online fraud, hacking, cyberbullying, intellectual property theft, and digital privacy. They work with law enforcement agencies and tech companies.\n\nHow to become one? Earn an LLB degree, specialize in cyber law, and obtain certifications in cybersecurity and IT laws."
+  },
+  {
+    "career_name": "Tax Lawyer",
+    "short_description": "Advises clients on tax laws and helps resolve disputes with tax authorities.",
+    "full_description": "A Tax Lawyer helps individuals and corporations understand tax regulations, minimize tax liabilities, and defend against legal disputes with tax agencies.\n\nHow to become one? Obtain an LLB degree, specialize in tax law, and gain experience in corporate or financial law firms."
+  },
+  {
+    "career_name": "Immigration Lawyer",
+    "short_description": "Helps individuals and businesses with visa, citizenship, and deportation issues.",
+    "full_description": "An Immigration Lawyer assists clients in obtaining visas, work permits, green cards, and citizenship while also handling deportation and refugee cases.\n\nHow to become one? Complete an LLB degree, specialize in immigration law, and gain experience with law firms or government agencies."
+  },
+  {
+    "career_name": "Maritime Lawyer",
+    "short_description": "Specializes in laws related to shipping, trade, and maritime disputes.",
+    "full_description": "A Maritime Lawyer focuses on legal matters concerning international waters, shipping regulations, maritime accidents, and trade agreements.\n\nHow to become one? Earn an LLB degree, specialize in maritime law, and work with shipping corporations or government regulatory bodies."
+  },
+  {
+    "career_name": "Labor and Employment Lawyer",
+    "short_description": "Deals with workplace rights, contracts, and disputes.",
+    "full_description": "A Labor Lawyer advises employees and companies on labor rights, wrongful termination, workplace harassment, and labor union disputes.\n\nHow to become one? Earn an LLB degree, specialize in labor law, and gain experience in employment-related legal matters."
+  },
+  {
+    "career_name": "Entertainment Lawyer",
+    "short_description": "Represents artists, musicians, and filmmakers in legal matters.",
+    "full_description": "An Entertainment Lawyer negotiates contracts, intellectual property rights, and licensing deals for professionals in the media, film, and music industries.\n\nHow to become one? Obtain an LLB degree, specialize in entertainment law, and work with talent agencies or media houses."
+  },
+  {
+    "career_name": "Public Prosecutor",
+    "short_description": "Represents the government in criminal cases.",
+    "full_description": "A Public Prosecutor presents evidence in court, argues cases on behalf of the state, and ensures criminals are held accountable under the law.\n\nHow to become one? Complete an LLB degree, clear the judicial services exam, and work under government-appointed legal authorities."
+  },
+  {
+    "career_name": "Alternative Dispute Resolution (ADR) Specialist",
+    "short_description": "Resolves disputes through mediation and arbitration instead of court trials.",
+    "full_description": "An ADR Specialist helps individuals and businesses resolve legal conflicts without litigation, using negotiation, mediation, and arbitration.\n\nHow to become one? Earn an LLB degree, gain training in dispute resolution, and obtain certifications in arbitration or mediation."
+  },
+  {
+    "career_name": "Constitutional Lawyer",
+    "short_description": "Handles cases related to constitutional rights and legal frameworks.",
+    "full_description": "A Constitutional Lawyer argues cases in high courts and supreme courts, dealing with fundamental rights, governmental powers, and judicial reviews.\n\nHow to become one? Earn an LLB degree, specialize in constitutional law, and gain experience in high-level legal advocacy."
+  },
+  {
+    "career_name": "International Law Attorney",
+    "short_description": "Handles legal cases that involve multiple countries and international disputes.",
+    "full_description": "An International Law Attorney deals with cross-border trade laws, treaties, war crimes, human rights violations, and diplomatic agreements.\n\nHow to become one? Earn an LLB degree, study international law, and work with multinational legal firms or organizations like the UN."
+  },
+  {
+    "career_name": "University Professor",
+    "short_description": "Teaches and conducts research in universities or colleges.",
+    "full_description": "A University Professor educates students in higher education institutions while also conducting research in their field of expertise. They publish academic papers, mentor students, and contribute to the advancement of knowledge.\n\nHow to become one? Earn a Bachelor's and Master's degree in a specific subject, then pursue a Ph.D. or equivalent qualification. Gain teaching experience and publish research to qualify for tenure-track positions."
+  },
+  {
+    "career_name": "School Teacher",
+    "short_description": "Teaches students at elementary, middle, or high school levels.",
+    "full_description": "A School Teacher provides education to students in various subjects, helping them develop critical thinking and problem-solving skills. They create lesson plans, assess student progress, and encourage learning.\n\nHow to become one? Obtain a Bachelor's degree in education or a subject-specific field, complete teacher training, and acquire necessary teaching certifications."
+  },
+  {
+    "career_name": "Academic Researcher",
+    "short_description": "Conducts research in universities or research institutions.",
+    "full_description": "An Academic Researcher investigates scientific or social topics, publishing findings in journals and contributing to advancements in their field. They work in universities, think tanks, or independent research institutes.\n\nHow to become one? Earn a Master's or Ph.D. in a specialized area, gain research experience, and publish academic papers."
+  },
+  {
+    "career_name": "Scientist",
+    "short_description": "Conducts scientific experiments and develops new knowledge.",
+    "full_description": "A Scientist explores natural, physical, and social sciences to develop new theories, technologies, and applications. They work in laboratories, universities, or government agencies.\n\nHow to become one? Complete a Bachelor's degree in science, followed by a Master's and Ph.D. in a specific discipline. Conduct extensive research and publish findings."
+  },
+  {
+    "career_name": "Educational Psychologist",
+    "short_description": "Studies how people learn and develop educational methods.",
+    "full_description": "An Educational Psychologist researches learning techniques, cognitive development, and educational interventions to improve teaching methods and student outcomes.\n\nHow to become one? Earn a degree in psychology or education, specialize in educational psychology, and gain relevant experience through research or counseling."
+  },
+  {
+    "career_name": "Curriculum Developer",
+    "short_description": "Designs educational programs and learning materials.",
+    "full_description": "A Curriculum Developer creates instructional materials, lesson plans, and educational programs for schools, colleges, and corporate training.\n\nHow to become one? Obtain a Bachelor's or Master's degree in education, instructional design, or a related field, and gain experience in educational planning."
+  },
+  {
+    "career_name": "Librarian",
+    "short_description": "Manages libraries and helps people access information.",
+    "full_description": "A Librarian organizes books, research materials, and digital information systems to help students and researchers find knowledge efficiently.\n\nHow to become one? Earn a degree in Library Science or Information Science and gain experience managing library systems."
+  },
+  {
+    "career_name": "Educational Consultant",
+    "short_description": "Advises schools, teachers, and students on educational strategies.",
+    "full_description": "An Educational Consultant helps institutions develop teaching methodologies, improve student performance, and implement new educational policies.\n\nHow to become one? Obtain a degree in education or administration, gain teaching experience, and specialize in educational consulting."
+  },
+  {
+    "career_name": "EdTech Specialist",
+    "short_description": "Develops and implements technology for education.",
+    "full_description": "An EdTech Specialist integrates technology into learning environments, designing digital education tools such as online courses, educational apps, and smart classrooms.\n\nHow to become one? Earn a degree in education technology, computer science, or instructional design, and gain experience in digital learning development."
+  },
+  {
+    "career_name": "Distance Learning Coordinator",
+    "short_description": "Manages online education programs and virtual learning platforms.",
+    "full_description": "A Distance Learning Coordinator ensures the smooth operation of online courses, developing virtual classrooms, managing e-learning software, and supporting remote learners.\n\nHow to become one? Earn a degree in education or instructional design, specialize in online learning technologies, and gain experience in virtual course management."
+  },
+  {
+    "career_name": "School Principal",
+    "short_description": "Oversees school administration and academic performance.",
+    "full_description": "A School Principal manages a school's curriculum, staff, and student success, ensuring a safe and effective learning environment.\n\nHow to become one? Earn a Bachelor's and Master's degree in education or administration, gain teaching experience, and complete leadership training."
+  },
+  {
+    "career_name": "Education Policy Analyst",
+    "short_description": "Evaluates and develops policies to improve education systems.",
+    "full_description": "An Education Policy Analyst researches educational trends and policies, making recommendations for improvements in school systems and government programs.\n\nHow to become one? Obtain a degree in education, public policy, or administration, and work with government agencies or research institutions."
+  },
+  {
+    "career_name": "Special Education Teacher",
+    "short_description": "Teaches students with special needs and learning disabilities.",
+    "full_description": "A Special Education Teacher helps students with disabilities, using adaptive teaching methods and personalized learning plans.\n\nHow to become one? Earn a Bachelor's degree in special education, obtain certification, and gain experience working with special-needs students."
+  },
+  {
+    "career_name": "Education Journalist",
+    "short_description": "Reports on educational trends, policies, and research.",
+    "full_description": "An Education Journalist writes articles, conducts interviews, and analyzes trends in the education sector for newspapers, magazines, or online media.\n\nHow to become one? Obtain a degree in journalism or education, gain writing experience, and specialize in education reporting."
+  },
+  {
+    "career_name": "Museum Educator",
+    "short_description": "Teaches history, science, or art through museum programs.",
+    "full_description": "A Museum Educator develops exhibits, creates educational tours, and teaches visitors about historical, scientific, or artistic topics.\n\nHow to become one? Earn a degree in education, history, or museum studies, and gain experience in museum programs."
+  },
+  {
+    "career_name": "Research Scientist",
+    "short_description": "Conducts scientific research in universities or labs.",
+    "full_description": "A Research Scientist works in academic institutions, private labs, or government agencies to study and experiment in specialized fields.\n\nHow to become one? Obtain a Ph.D. in a science-related field, conduct research, and publish findings in scientific journals."
+  },
+  {
+    "career_name": "Vocational Trainer",
+    "short_description": "Provides hands-on training for specific careers and skills.",
+    "full_description": "A Vocational Trainer teaches practical skills such as plumbing, electrical work, culinary arts, or automotive repair, preparing students for the workforce.\n\nHow to become one? Gain expertise in a trade, obtain vocational teaching certification, and work with technical institutes."
+  },
+  {
+    "career_name": "Test Developer",
+    "short_description": "Designs standardized tests and assessments.",
+    "full_description": "A Test Developer creates exams to evaluate student learning, professional certification, and academic admissions, ensuring assessment validity and fairness.\n\nHow to become one? Earn a degree in education, psychology, or assessment design, and gain experience in educational measurement."
+  },
+  {
+    "career_name": "Education Entrepreneur",
+    "short_description": "Starts businesses focused on learning and education.",
+    "full_description": "An Education Entrepreneur develops schools, online learning platforms, tutoring centers, or educational tools, innovating in the education industry.\n\nHow to become one? Gain expertise in education, business, or technology, and start a venture in the education sector."
+  },
+  {
+    "career_name": "Digital Marketing Specialist",
+    "short_description": "Uses online platforms to promote products and services.",
+    "full_description": "A Digital Marketing Specialist creates and manages online marketing campaigns using social media, search engines, email marketing, and content creation. They analyze trends, optimize strategies, and increase brand visibility online.\n\nHow to become one? Earn a degree in marketing, business, or communications. Learn digital tools like SEO, Google Ads, and social media marketing. Gain certifications (e.g., Google Digital Marketing, HubSpot), and build experience through internships or freelance projects."
+  },
+  {
+    "career_name": "SEO Specialist",
+    "short_description": "Optimizes websites to rank higher on search engines.",
+    "full_description": "An SEO (Search Engine Optimization) Specialist improves a website’s visibility on search engines by optimizing keywords, backlinks, and content structure. Their goal is to drive organic traffic and increase online reach.\n\nHow to become one? Learn SEO strategies, keyword research, and Google Analytics. Obtain certifications in SEO and digital marketing. Gain experience by optimizing blogs, websites, or working with marketing agencies."
+  },
+  {
+    "career_name": "Content Marketer",
+    "short_description": "Creates and promotes valuable content to attract customers.",
+    "full_description": "A Content Marketer develops blog posts, videos, infographics, and social media content to engage and educate audiences. They use storytelling and branding strategies to build a strong online presence.\n\nHow to become one? Earn a degree in journalism, marketing, or communications. Develop writing, SEO, and social media skills. Build a content portfolio and gain experience in content marketing roles."
+  },
+  {
+    "career_name": "Social Media Manager",
+    "short_description": "Manages brand presence on social media platforms.",
+    "full_description": "A Social Media Manager handles social media accounts, creates engaging posts, interacts with followers, and runs paid advertisements. They analyze performance metrics to enhance brand visibility and audience engagement.\n\nHow to become one? Learn about social media trends, platforms, and analytics tools. Gain hands-on experience by managing business or personal accounts. Obtain certifications in social media marketing."
+  },
+  {
+    "career_name": "Brand Manager",
+    "short_description": "Develops and maintains a company’s brand identity.",
+    "full_description": "A Brand Manager ensures a brand’s image, message, and positioning are consistent across all marketing channels. They conduct market research, develop branding strategies, and oversee marketing campaigns.\n\nHow to become one? Earn a degree in marketing, business, or branding. Gain experience in brand strategy and consumer behavior. Work in product marketing, advertising, or related roles."
+  },
+  {
+    "career_name": "Sales Executive",
+    "short_description": "Sells products and services to customers and businesses.",
+    "full_description": "A Sales Executive identifies leads, presents products or services, negotiates deals, and builds long-term client relationships. They focus on meeting sales targets and driving revenue growth.\n\nHow to become one? Obtain a degree in business, marketing, or sales. Develop communication and negotiation skills. Gain experience in sales roles and learn customer relationship management (CRM) tools."
+  },
+  {
+    "career_name": "Marketing Analyst",
+    "short_description": "Analyzes market trends and customer behavior to improve marketing strategies.",
+    "full_description": "A Marketing Analyst collects and interprets data to identify market trends, customer preferences, and the effectiveness of marketing campaigns. They provide insights that help businesses make data-driven decisions.\n\nHow to become one? Earn a degree in marketing, statistics, or business analytics. Learn data analysis tools like Google Analytics and Excel. Gain experience in market research and digital marketing."
+  },
+  {
+    "career_name": "Product Marketing Manager",
+    "short_description": "Develops marketing strategies for specific products or services.",
+    "full_description": "A Product Marketing Manager focuses on launching and promoting products, understanding customer needs, and positioning them effectively in the market. They work closely with product development, sales, and marketing teams.\n\nHow to become one? Obtain a degree in marketing, business, or product management. Develop skills in market research, messaging, and campaign management. Gain experience in product marketing roles."
+  },
+  {
+    "career_name": "Advertising Manager",
+    "short_description": "Plans and executes advertising campaigns for brands and products.",
+    "full_description": "An Advertising Manager oversees paid marketing efforts, including TV, print, online, and social media ads. They collaborate with creative teams to design effective campaigns that attract customers.\n\nHow to become one? Earn a degree in advertising, marketing, or business. Gain experience in ad agencies or corporate marketing teams. Learn media planning, budgeting, and campaign analytics."
+  },
+  {
+    "career_name": "Affiliate Marketing Manager",
+    "short_description": "Manages partnerships with affiliates to drive sales.",
+    "full_description": "An Affiliate Marketing Manager works with partners who promote a company’s products in exchange for commissions. They recruit affiliates, manage relationships, and track performance metrics.\n\nHow to become one? Learn about digital marketing, affiliate programs, and commission-based sales models. Gain experience in e-commerce or online marketing roles."
+  },
+  {
+    "career_name": "Public Relations (PR) Specialist",
+    "short_description": "Manages a company's public image and media relations.",
+    "full_description": "A PR Specialist creates press releases, organizes media events, and manages crisis communications. They ensure a company or individual maintains a positive public image.\n\nHow to become one? Earn a degree in public relations, communications, or journalism. Gain experience in media outreach and brand reputation management."
+  },
+  {
+    "career_name": "Email Marketing Specialist",
+    "short_description": "Creates and manages email campaigns to engage customers.",
+    "full_description": "An Email Marketing Specialist designs and automates email sequences to nurture leads, promote products, and improve customer retention. They use email marketing tools to segment audiences and personalize content.\n\nHow to become one? Learn email marketing strategies, automation tools, and copywriting. Gain experience by working with CRM and email marketing software."
+  },
+  {
+    "career_name": "Event Marketing Manager",
+    "short_description": "Plans and promotes events to engage audiences and drive brand awareness.",
+    "full_description": "An Event Marketing Manager organizes conferences, trade shows, and promotional events. They coordinate logistics, marketing, and sponsorships to ensure successful brand engagement.\n\nHow to become one? Earn a degree in event management, marketing, or business. Develop skills in event planning, budgeting, and digital promotions."
+  },
+  {
+    "career_name": "Retail Sales Manager",
+    "short_description": "Oversees sales operations in retail stores.",
+    "full_description": "A Retail Sales Manager ensures smooth sales operations, manages staff, and improves customer experience in retail businesses. They analyze sales trends and implement promotional strategies.\n\nHow to become one? Gain experience in retail, learn sales management strategies, and obtain a degree in business or retail management."
+  },
+  {
+    "career_name": "E-commerce Specialist",
+    "short_description": "Manages online stores and digital sales strategies.",
+    "full_description": "An E-commerce Specialist optimizes product listings, manages online marketplaces, and creates marketing strategies for digital sales. They work with platforms like Amazon, Shopify, and WooCommerce.\n\nHow to become one? Learn e-commerce marketing, website management, and SEO. Gain experience in online retail businesses or digital marketing agencies."
+  },
+  {
+    "career_name": "Influencer Marketing Manager",
+    "short_description": "Works with social media influencers to promote products.",
+    "full_description": "An Influencer Marketing Manager connects brands with social media influencers to increase visibility and engagement. They manage partnerships, negotiate contracts, and track campaign performance.\n\nHow to become one? Develop knowledge of social media marketing, networking, and influencer trends. Gain experience in brand partnerships or digital PR."
+  },
+  {
+    "career_name": "Corporate Sales Manager",
+    "short_description": "Manages B2B sales and large client accounts.",
+    "full_description": "A Corporate Sales Manager sells products or services to businesses, builds strong relationships with corporate clients, and negotiates high-value deals.\n\nHow to become one? Earn a business or sales degree, develop negotiation skills, and gain experience in B2B sales roles."
+  },
+  {
+    "career_name": "Marketing Director",
+    "short_description": "Leads a company’s marketing strategies and branding efforts.",
+    "full_description": "A Marketing Director oversees a company’s entire marketing strategy, ensuring alignment with business goals. They manage teams, budgets, and high-level marketing campaigns.\n\nHow to become one? Gain years of experience in marketing roles, develop leadership skills, and obtain an advanced business degree."
+  },
+  {
+    "career_name": "Agronomist",
+    "short_description": "Studies soil and crops to improve agricultural productivity.",
+    "full_description": "An Agronomist works to enhance crop yields by analyzing soil quality, developing farming techniques, and using sustainable agricultural practices. They research fertilizers, irrigation, and crop rotation to optimize production.\n\nHow to become one? Earn a degree in agronomy, agriculture, or soil science. Gain hands-on experience through internships or working with farmers. Advanced research roles may require a master’s or PhD."
+  },
+  {
+    "career_name": "Agricultural Engineer",
+    "short_description": "Designs and improves farming equipment and systems.",
+    "full_description": "An Agricultural Engineer develops machinery, irrigation systems, and sustainable farming techniques to increase agricultural efficiency. They work with automation, renewable energy, and environmental protection in farming.\n\nHow to become one? Obtain a degree in agricultural engineering. Learn about farm machinery, environmental science, and automation technologies. Gain field experience in farming or engineering firms."
+  },
+  {
+    "career_name": "Environmental Scientist",
+    "short_description": "Studies the environment and develops solutions for sustainability.",
+    "full_description": "An Environmental Scientist researches pollution, climate change, and ecosystem health. They work on environmental policies, waste management, and conservation to protect natural resources.\n\nHow to become one? Earn a degree in environmental science, ecology, or biology. Work on environmental projects, conduct research, and gain certifications in sustainability and environmental management."
+  },
+  {
+    "career_name": "Soil Scientist",
+    "short_description": "Analyzes soil composition for farming, conservation, and construction.",
+    "full_description": "A Soil Scientist studies soil health, erosion, and fertility to support agriculture and land use planning. They work in agriculture, forestry, and environmental conservation.\n\nHow to become one? Get a degree in soil science, environmental science, or agriculture. Work with laboratories, research organizations, or government agencies."
+  },
+  {
+    "career_name": "Horticulturist",
+    "short_description": "Specializes in growing plants, fruits, vegetables, and flowers.",
+    "full_description": "A Horticulturist works in plant cultivation, landscape design, and greenhouse management. They improve plant breeding, pest control, and sustainable gardening techniques.\n\nHow to become one? Earn a degree in horticulture, botany, or agriculture. Gain experience in nurseries, landscaping, or research institutions."
+  },
+  {
+    "career_name": "Forestry Officer",
+    "short_description": "Manages forests and promotes sustainable logging practices.",
+    "full_description": "A Forestry Officer works in conservation, wildlife protection, and sustainable timber harvesting. They manage forests to prevent deforestation and preserve biodiversity.\n\nHow to become one? Earn a degree in forestry, environmental science, or natural resource management. Work in government agencies or private conservation firms."
+  },
+  {
+    "career_name": "Agricultural Economist",
+    "short_description": "Analyzes agricultural markets and policies to improve farming economics.",
+    "full_description": "An Agricultural Economist studies food production, pricing, and global trade in agriculture. They help farmers, policymakers, and agribusinesses make informed decisions.\n\nHow to become one? Get a degree in agricultural economics, business, or finance. Work in research, government agencies, or agribusiness companies."
+  },
+  {
+    "career_name": "Farm Manager",
+    "short_description": "Oversees agricultural operations and ensures efficient farm management.",
+    "full_description": "A Farm Manager supervises farm workers, manages crop production, and ensures sustainability in farming practices. They also handle budgeting, equipment maintenance, and resource allocation.\n\nHow to become one? Study agriculture, farm management, or agribusiness. Gain practical experience by working on farms or in agricultural enterprises."
+  },
+  {
+    "career_name": "Food Scientist",
+    "short_description": "Develops safe, nutritious, and sustainable food products.",
+    "full_description": "A Food Scientist studies food preservation, safety, and nutrition. They work with food processing industries, ensuring food quality and compliance with safety standards.\n\nHow to become one? Earn a degree in food science, chemistry, or nutrition. Work in food research labs or the food manufacturing industry."
+  },
+  {
+    "career_name": "Hydrologist",
+    "short_description": "Studies water resources and their impact on the environment.",
+    "full_description": "A Hydrologist analyzes water cycles, pollution, and conservation methods. They help manage water resources for agriculture, drinking water, and flood control.\n\nHow to become one? Obtain a degree in hydrology, geology, or environmental science. Work with environmental agencies, research institutions, or water management firms."
+  },
+  {
+    "career_name": "Wildlife Biologist",
+    "short_description": "Studies animal populations and their habitats for conservation efforts.",
+    "full_description": "A Wildlife Biologist researches animal behavior, biodiversity, and ecosystem health. They work in national parks, conservation agencies, and wildlife protection organizations.\n\nHow to become one? Get a degree in biology, zoology, or environmental science. Gain field experience through research projects and internships."
+  },
+  {
+    "career_name": "Climate Change Analyst",
+    "short_description": "Assesses climate trends and their impact on ecosystems and agriculture.",
+    "full_description": "A Climate Change Analyst studies weather patterns, greenhouse gases, and sustainability policies. They work on solutions to mitigate climate change effects on agriculture and the environment.\n\nHow to become one? Earn a degree in environmental science, climatology, or policy studies. Work with research institutions or government organizations."
+  },
+  {
+    "career_name": "Aquaculture Specialist",
+    "short_description": "Manages fish farms and promotes sustainable seafood production.",
+    "full_description": "An Aquaculture Specialist focuses on breeding, raising, and harvesting fish and seafood in controlled environments. They ensure sustainable fisheries and improve seafood production methods.\n\nHow to become one? Study aquaculture, marine biology, or fisheries science. Work in research facilities or commercial fish farming industries."
+  },
+  {
+    "career_name": "Organic Farming Consultant",
+    "short_description": "Advises farmers on sustainable and chemical-free farming methods.",
+    "full_description": "An Organic Farming Consultant helps farmers transition to organic agriculture by reducing pesticide use, improving soil fertility, and adopting eco-friendly farming practices.\n\nHow to become one? Gain knowledge in organic farming, soil health, and sustainable agriculture. Work with organic farms, NGOs, or certification bodies."
+  },
+  {
+    "career_name": "Environmental Engineer",
+    "short_description": "Develops solutions to environmental problems like pollution and waste management.",
+    "full_description": "An Environmental Engineer designs projects to improve air and water quality, manage waste, and reduce environmental hazards. They work in industries, government, and research.\n\nHow to become one? Obtain a degree in environmental engineering. Learn about water treatment, waste management, and sustainability practices."
+  },
+  {
+    "career_name": "Sustainable Agriculture Specialist",
+    "short_description": "Promotes farming techniques that protect the environment and conserve resources.",
+    "full_description": "A Sustainable Agriculture Specialist researches and implements methods like crop rotation, regenerative agriculture, and eco-friendly pest control to maintain long-term soil health and productivity.\n\nHow to become one? Earn a degree in agriculture, environmental science, or sustainability. Gain experience in farming, conservation, or agricultural research."
+  },
+  {
+    "career_name": "Agricultural Biotechnologist",
+    "short_description": "Uses biotechnology to improve crops, pest resistance, and food quality.",
+    "full_description": "An Agricultural Biotechnologist works with genetic modification, plant breeding, and bioengineering to create more resilient crops and improve food production.\n\nHow to become one? Get a degree in biotechnology, genetics, or agricultural science. Work in research labs or biotech firms."
+  },
+  {
+    "career_name": "Commercial Pilot",
+    "short_description": "Operates aircraft for passenger and cargo transportation.",
+    "full_description": "A Commercial Pilot is responsible for flying aircraft safely while ensuring passenger comfort and cargo security. They follow flight plans, communicate with air traffic control, and manage in-flight emergencies.\n\nHow to become one? Complete a 12th-grade education with physics and mathematics. Enroll in a flight training academy and obtain a Commercial Pilot License (CPL). Gain experience through flying hours and further certifications."
+  },
+  {
+    "career_name": "Airline Captain",
+    "short_description": "Leads the flight crew and is responsible for overall flight safety.",
+    "full_description": "An Airline Captain is the highest-ranking pilot on an aircraft, making crucial flight decisions, ensuring safety, and supervising co-pilots. They must handle emergency situations and maintain communication with ground control.\n\nHow to become one? Start as a commercial pilot, gain extensive flying experience (usually 1,500+ hours), and obtain an Airline Transport Pilot License (ATPL). Advance through promotions based on performance and experience."
+  },
+  {
+    "career_name": "Air Traffic Controller",
+    "short_description": "Manages aircraft movements in the air and on the ground to prevent collisions.",
+    "full_description": "An Air Traffic Controller (ATC) is responsible for directing aircraft during takeoff, landing, and flight. They ensure safe and efficient air traffic flow using radar systems and radio communication.\n\nHow to become one? Obtain a degree in air traffic management or aviation-related fields. Complete ATC training from a recognized aviation authority and pass certification exams."
+  },
+  {
+    "career_name": "Aeronautical Engineer",
+    "short_description": "Designs, tests, and improves aircraft and propulsion systems.",
+    "full_description": "An Aeronautical Engineer works on designing, building, and maintaining aircraft structures, aerodynamics, and propulsion systems. They ensure safety, fuel efficiency, and performance improvements in aviation.\n\nHow to become one? Earn a degree in aeronautical or aerospace engineering. Gain experience through internships in aerospace companies and obtain necessary certifications."
+  },
+  {
+    "career_name": "Aerospace Engineer",
+    "short_description": "Develops technology for aircraft, spacecraft, and satellites.",
+    "full_description": "An Aerospace Engineer works on designing and testing aircraft, spacecraft, and missile systems. They specialize in aerodynamics, propulsion, avionics, and structural design.\n\nHow to become one? Obtain a degree in aerospace engineering. Gain experience through research projects and internships in space agencies or defense industries."
+  },
+  {
+    "career_name": "Aircraft Maintenance Engineer (AME)",
+    "short_description": "Inspects and repairs aircraft to ensure safety and compliance.",
+    "full_description": "An Aircraft Maintenance Engineer (AME) is responsible for maintaining aircraft engines, electrical systems, and airframes. They diagnose issues, perform repairs, and ensure compliance with aviation regulations.\n\nHow to become one? Complete an approved AME course and pass licensing exams. Gain hands-on training in aircraft maintenance facilities."
+  },
+  {
+    "career_name": "Flight Engineer",
+    "short_description": "Monitors and maintains aircraft systems during flights.",
+    "full_description": "A Flight Engineer assists pilots by overseeing engine performance, fuel consumption, and other critical aircraft systems. They ensure safe and efficient aircraft operation.\n\nHow to become one? Obtain a degree in aviation or aeronautical engineering. Gain flight experience and complete certification requirements to qualify."
+  },
+  {
+    "career_name": "Drone Pilot (UAV Operator)",
+    "short_description": "Operates unmanned aerial vehicles (UAVs) for various applications.",
+    "full_description": "A Drone Pilot, also known as a UAV Operator, controls drones for surveillance, photography, delivery services, and military operations. They follow safety regulations and flight protocols.\n\nHow to become one? Obtain drone pilot training and certification. Gain experience in specific industries like defense, agriculture, or cinematography."
+  },
+  {
+    "career_name": "Aviation Safety Inspector",
+    "short_description": "Ensures airline and airport compliance with aviation safety regulations.",
+    "full_description": "An Aviation Safety Inspector monitors airline operations, pilot training programs, and aircraft maintenance standards. They enforce safety regulations to prevent accidents.\n\nHow to become one? Gain experience as a pilot, engineer, or air traffic controller. Obtain certifications from aviation regulatory bodies and complete specialized training in aviation safety."
+  },
+  {
+    "career_name": "Avionics Engineer",
+    "short_description": "Develops and maintains electronic systems in aircraft.",
+    "full_description": "An Avionics Engineer specializes in designing and repairing aircraft electronics, including navigation, communication, and autopilot systems. They ensure high-tech functionality and safety compliance.\n\nHow to become one? Earn a degree in avionics engineering or electronics. Work with aerospace companies to gain practical experience in aircraft electronics."
+  },
+  {
+    "career_name": "Airport Manager",
+    "short_description": "Oversees airport operations, safety, and passenger services.",
+    "full_description": "An Airport Manager ensures smooth airport operations, manages staff, supervises security, and coordinates flight schedules. They focus on passenger experience, safety, and regulatory compliance.\n\nHow to become one? Obtain a degree in aviation management or business administration. Gain experience in airport operations and leadership roles."
+  },
+  {
+    "career_name": "Meteorologist (Aviation Weather Specialist)",
+    "short_description": "Analyzes weather patterns to ensure flight safety.",
+    "full_description": "An Aviation Meteorologist provides pilots and airlines with crucial weather information, including turbulence, storms, and wind patterns, to ensure safe flight operations.\n\nHow to become one? Earn a degree in meteorology, atmospheric science, or aviation-related fields. Work with weather agencies or airlines for specialized training."
+  },
+  {
+    "career_name": "Flight Attendant",
+    "short_description": "Provides passenger safety and service during flights.",
+    "full_description": "A Flight Attendant ensures passenger safety, provides in-flight services, and handles emergency situations. They represent the airline and enhance customer experience.\n\nHow to become one? Complete high school education and undergo flight attendant training. Obtain certification from an aviation authority and pass airline-specific selection processes."
+  },
+  {
+    "career_name": "Air Cargo Manager",
+    "short_description": "Oversees the transportation and logistics of air freight.",
+    "full_description": "An Air Cargo Manager supervises cargo shipments, ensures regulatory compliance, and optimizes air freight logistics. They work with airlines, logistics firms, and freight companies.\n\nHow to become one? Obtain a degree in logistics, aviation management, or business. Gain experience in air cargo handling and transportation management."
+  },
+  {
+    "career_name": "Space Scientist",
+    "short_description": "Researches outer space, satellite technology, and planetary exploration.",
+    "full_description": "A Space Scientist studies celestial bodies, spacecraft technology, and extraterrestrial conditions. They work with space agencies, research institutions, and satellite organizations.\n\nHow to become one? Earn a degree in physics, astronomy, or aerospace engineering. Work in space research centers or join government space programs."
+  },
+  {
+    "career_name": "Aircraft Dispatcher",
+    "short_description": "Plans flight paths and ensures safe air traffic operations.",
+    "full_description": "An Aircraft Dispatcher coordinates flight schedules, optimizes routes, and provides pilots with essential flight information. They ensure efficiency and safety in airline operations.\n\nHow to become one? Obtain an aircraft dispatcher license from an aviation regulatory body. Complete aviation-related coursework and gain experience in airline operations."
+  },
+  {
+    "career_name": "Hotel Manager",
+    "short_description": "Oversees hotel operations, staff, and guest experience.",
+    "full_description": "A Hotel Manager is responsible for the overall management of a hotel, ensuring high-quality service, efficient operations, and guest satisfaction. They supervise staff, manage budgets, oversee housekeeping, and ensure compliance with safety and hospitality standards.\n\nHow to become one? Earn a degree in hotel management, hospitality, or business administration. Gain experience in different hotel departments and work up to management roles."
+  },
+  {
+    "career_name": "Event Manager",
+    "short_description": "Plans and executes events, from weddings to corporate conferences.",
+    "full_description": "An Event Manager organizes and oversees events, including weddings, corporate meetings, concerts, and exhibitions. They handle logistics, vendor coordination, budgeting, and client requirements to ensure successful events.\n\nHow to become one? Obtain a degree in event management, hospitality, or public relations. Gain experience through internships and build strong networking skills."
+  },
+  {
+    "career_name": "Travel Agent",
+    "short_description": "Helps clients plan vacations, book flights, hotels, and tour packages.",
+    "full_description": "A Travel Agent assists individuals and groups in planning trips by booking flights, accommodations, and activities. They provide travel advice, offer packages, and ensure a seamless travel experience.\n\nHow to become one? Get a diploma or degree in tourism or hospitality. Gain experience with travel agencies and obtain certifications from tourism boards."
+  },
+  {
+    "career_name": "Tour Guide",
+    "short_description": "Leads tourists through destinations, providing historical and cultural insights.",
+    "full_description": "A Tour Guide provides guided tours at historical sites, museums, or natural attractions, sharing knowledge about local culture, landmarks, and history. They enhance visitor experiences through storytelling and interactive engagement.\n\nHow to become one? Obtain a degree or certification in tourism, history, or hospitality. Gain experience by working with travel companies or as a freelancer."
+  },
+  {
+    "career_name": "Cruise Ship Manager",
+    "short_description": "Manages operations, services, and entertainment on cruise ships.",
+    "full_description": "A Cruise Ship Manager oversees the functioning of a cruise ship, ensuring guest comfort, entertainment, and safety. They manage crew members, coordinate events, and handle logistics onboard.\n\nHow to become one? Pursue a hospitality or tourism management degree. Gain experience in cruise ship operations and work up to managerial roles."
+  },
+  {
+    "career_name": "Catering Manager",
+    "short_description": "Handles food and beverage services for events and hospitality venues.",
+    "full_description": "A Catering Manager plans and oversees food services for events, hotels, and corporate functions. They manage catering staff, ensure food quality, and coordinate logistics to deliver excellent dining experiences.\n\nHow to become one? Get a degree in hospitality management or culinary arts. Gain experience in food service and event catering."
+  },
+  {
+    "career_name": "Concierge",
+    "short_description": "Assists hotel guests with reservations, recommendations, and special requests.",
+    "full_description": "A Concierge provides personalized services to hotel guests, including booking reservations, arranging transportation, and offering local recommendations. They enhance the guest experience with their knowledge and service skills.\n\nHow to become one? Gain experience in customer service or hospitality roles. Strong communication and problem-solving skills are essential."
+  },
+  {
+    "career_name": "Resort Manager",
+    "short_description": "Oversees the daily operations of a resort, ensuring guest satisfaction.",
+    "full_description": "A Resort Manager is responsible for the smooth functioning of a resort, managing staff, organizing activities, and ensuring guests have a memorable stay. They focus on customer service, budgeting, and maintaining resort standards.\n\nHow to become one? Obtain a degree in hospitality or tourism management. Gain hands-on experience in resort operations."
+  },
+  {
+    "career_name": "Restaurant Manager",
+    "short_description": "Supervises restaurant operations, ensuring quality food and customer service.",
+    "full_description": "A Restaurant Manager ensures the smooth running of a restaurant by managing staff, overseeing food quality, handling customer complaints, and maintaining hygiene standards.\n\nHow to become one? Earn a degree in hotel or restaurant management. Gain experience in the food and beverage industry."
+  },
+  {
+    "career_name": "Luxury Travel Consultant",
+    "short_description": "Plans high-end travel experiences for VIP clients.",
+    "full_description": "A Luxury Travel Consultant specializes in creating premium travel experiences, offering personalized itineraries, luxury accommodations, and exclusive activities for high-end clients.\n\nHow to become one? Gain expertise in the luxury travel sector, work with travel agencies, and build a network of exclusive travel partners."
+  },
+  {
+    "career_name": "Airline Customer Service Representative",
+    "short_description": "Assists airline passengers with bookings, check-ins, and travel queries.",
+    "full_description": "An Airline Customer Service Representative helps travelers with ticket bookings, baggage handling, and travel information at airports. They ensure a smooth passenger experience and resolve issues efficiently.\n\nHow to become one? Get a diploma or degree in hospitality or travel management. Develop strong communication and customer service skills."
+  },
+  {
+    "career_name": "Casino Manager",
+    "short_description": "Supervises casino operations, ensuring fair play and excellent service.",
+    "full_description": "A Casino Manager oversees the daily functioning of a casino, ensuring fair gaming, managing security, and providing top-tier customer service to guests.\n\nHow to become one? Earn a degree in hospitality management or business. Gain experience in casino operations and security."
+  },
+  {
+    "career_name": "Theme Park Manager",
+    "short_description": "Manages the operations and entertainment of amusement parks.",
+    "full_description": "A Theme Park Manager is responsible for the overall management of amusement parks, ensuring visitor safety, operational efficiency, and guest satisfaction. They handle ride maintenance, staff supervision, and event planning.\n\nHow to become one? Obtain a degree in hospitality, business management, or tourism. Gain experience in park operations and management roles."
+  },
+  {
+    "career_name": "Wedding Planner",
+    "short_description": "Plans and coordinates weddings, ensuring a perfect experience for couples.",
+    "full_description": "A Wedding Planner helps couples organize their weddings, handling venue selection, decoration, catering, and logistics. They ensure a stress-free experience for clients.\n\nHow to become one? Take courses in event planning or hospitality. Gain experience in organizing events and build a network of vendors."
+  },
+  {
+    "career_name": "Tourism Officer",
+    "short_description": "Promotes tourism in a region, developing marketing campaigns and travel programs.",
+    "full_description": "A Tourism Officer works for government agencies or private tourism firms to promote tourist destinations. They create marketing campaigns, collaborate with travel agencies, and enhance visitor experiences.\n\nHow to become one? Earn a degree in tourism management, marketing, or hospitality. Work with tourism boards or agencies to gain experience."
+  },
+  {
+    "career_name": "Food and Beverage Director",
+    "short_description": "Oversees food and beverage services in hotels, restaurants, or cruise lines.",
+    "full_description": "A Food and Beverage Director is responsible for managing all food and drink services in a hospitality establishment. They ensure quality control, optimize menus, and enhance guest dining experiences.\n\nHow to become one? Earn a degree in hospitality management, culinary arts, or business. Gain experience in food service management."
+  },
+  {
+    "career_name": "Indian Administrative Service (IAS) Officer",
+    "short_description": "Top administrative officer responsible for implementing government policies and governance.",
+    "full_description": "An IAS Officer plays a crucial role in policymaking, administration, and governance at the district, state, and national levels. They handle law and order, revenue collection, public welfare, and coordination between various departments. IAS officers hold prestigious positions such as District Magistrate (DM), Commissioner, and Secretary in different ministries.\n\nHow to become one? Clear the UPSC Civil Services Examination (CSE), which includes Prelims, Mains, and an Interview. A bachelor's degree is required."
+  },
+  {
+    "career_name": "Indian Police Service (IPS) Officer",
+    "short_description": "Responsible for maintaining law and order, crime prevention, and investigation.",
+    "full_description": "An IPS Officer works in law enforcement, crime investigation, and public safety. They can serve as Superintendents of Police (SP), Commissioners, or Directors in intelligence agencies like CBI, NIA, or RAW.\n\nHow to become one? Clear the UPSC Civil Services Examination (CSE). After selection, candidates undergo training at the Sardar Vallabhbhai Patel National Police Academy (SVPNPA)."
+  },
+  {
+    "career_name": "Indian Revenue Service (IRS) Officer",
+    "short_description": "Manages tax collection, enforcement, and financial regulations.",
+    "full_description": "An IRS Officer works in the Income Tax Department or Customs & Indirect Taxes. They ensure tax compliance, investigate tax fraud, and implement financial regulations.\n\nHow to become one? Clear the UPSC Civil Services Examination (CSE) and get allocated to IRS based on ranking."
+  },
+  {
+    "career_name": "Indian Foreign Service (IFS) Officer",
+    "short_description": "Represents India in diplomatic missions abroad.",
+    "full_description": "An IFS Officer serves as a diplomat, representing India in embassies, consulates, and international organizations. They handle foreign relations, trade negotiations, and cultural exchanges.\n\nHow to become one? Clear the UPSC Civil Services Examination (CSE) and get selected for the IFS."
+  },
+  {
+    "career_name": "State Civil Services (PCS)",
+    "short_description": "Manages state administration and governance.",
+    "full_description": "PCS Officers manage state-level administration, working as Sub-Divisional Magistrates (SDM), Deputy Collectors, and other state-level bureaucratic positions.\n\nHow to become one? Clear the State Public Service Commission (PSC) exam for the respective state."
+  },
+  {
+    "career_name": "Gram Panchayat Officer",
+    "short_description": "Handles administration at the village level.",
+    "full_description": "A Gram Panchayat Officer manages local development projects, record-keeping, and village governance under the Panchayati Raj system.\n\nHow to become one? Apply through the State Public Service Commission or Panchayati Raj recruitment exams."
+  },
+  {
+    "career_name": "District Collector",
+    "short_description": "Heads the district administration and supervises development projects.",
+    "full_description": "The District Collector (DC) or District Magistrate (DM) is responsible for law and order, revenue collection, and implementing government schemes at the district level.\n\nHow to become one? Clear the UPSC Civil Services Examination and get allocated to IAS."
+  },
+  {
+    "career_name": "Tehsildar / Revenue Officer",
+    "short_description": "Manages revenue collection and land records at the tehsil level.",
+    "full_description": "A Tehsildar is responsible for land revenue, dispute resolution, and land records maintenance at the tehsil level.\n\nHow to become one? Clear the State PSC exam for Tehsildar recruitment."
+  },
+  {
+    "career_name": "Block Development Officer (BDO)",
+    "short_description": "Supervises rural development projects in a block.",
+    "full_description": "A BDO is responsible for implementing government welfare schemes and development projects in a block.\n\nHow to become one? Clear the State PSC exam for BDO positions."
+  },
+  {
+    "career_name": "Municipal Commissioner",
+    "short_description": "Oversees urban governance and municipal administration.",
+    "full_description": "A Municipal Commissioner manages the functioning of city municipalities, including infrastructure development, waste management, and public services.\n\nHow to become one? Get selected through the State PSC or IAS/PCS exams."
+  },
+  {
+    "career_name": "Indian Engineering Services (IES) Officer",
+    "short_description": "Works in government engineering projects and infrastructure development.",
+    "full_description": "IES Officers work in organizations like the Indian Railways, CPWD, and power and telecom departments, handling infrastructure development.\n\nHow to become one? Clear the UPSC Engineering Services Examination (ESE)."
+  },
+  {
+    "career_name": "Railway Protection Force (RPF) Officer",
+    "short_description": "Ensures security in Indian Railways.",
+    "full_description": "RPF officers handle railway security, crime prevention, and passenger safety.\n\nHow to become one? Clear the UPSC or RPF recruitment exams."
+  },
+  {
+    "career_name": "Judicial Services (Civil Judge, District Judge)",
+    "short_description": "Presides over court cases and delivers justice.",
+    "full_description": "Judicial Officers serve as Civil Judges, District Judges, and High Court Judges, handling legal disputes and delivering judgments.\n\nHow to become one? Clear the Judicial Services Examination conducted by the High Court or State PSC after completing an LLB degree."
+  },
+  {
+    "career_name": "Public Sector Bank Officer",
+    "short_description": "Manages banking operations in government banks.",
+    "full_description": "Bank officers handle customer services, loan approvals, and financial management in PSU banks like SBI, PNB, and RBI.\n\nHow to become one? Clear IBPS PO, SBI PO, or RBI Grade B exams."
+  },
+  {
+    "career_name": "Indian Audit and Accounts Service (IAAS) Officer",
+    "short_description": "Audits government departments and financial accounts.",
+    "full_description": "IAAS officers work in the Comptroller and Auditor General (CAG) office, auditing financial records of government bodies.\n\nHow to become one? Clear the UPSC Civil Services Examination."
+  },
+  {
+    "career_name": "Defense Services (Army, Navy, Air Force)",
+    "short_description": "Protects national security and leads defense operations.",
+    "full_description": "Defense Officers serve in the Indian Army, Navy, or Air Force as commissioned officers in various capacities.\n\nHow to become one? Clear exams like NDA, CDS, AFCAT, or apply through technical entry schemes."
+  },
+  {
+    "career_name": "Indian Forest Service (IFS) Officer",
+    "short_description": "Manages forests, wildlife, and environmental policies.",
+    "full_description": "IFS Officers work on environmental conservation, wildlife protection, and afforestation programs.\n\nHow to become one? Clear the UPSC Indian Forest Service Examination."
+  },
+  {
+    "career_name": "Intelligence Bureau (IB) Officer",
+    "short_description": "Handles national security intelligence.",
+    "full_description": "IB Officers work in intelligence gathering, counterterrorism, and internal security.\n\nHow to become one? Clear UPSC Civil Services or IB ACIO recruitment exams."
+  },
+  {
+    "career_name": "Postal Service Officer",
+    "short_description": "Manages postal operations and logistics in India Post.",
+    "full_description": "Postal Service Officers oversee mail distribution, logistics, and financial services in India Post.\n\nHow to become one? Clear the UPSC Civil Services Examination for the Indian Postal Service."
+  },
+  {
+    "career_name": "Indian Space Research Organisation (ISRO) Scientist",
+    "short_description": "Leads space research and satellite development.",
+    "full_description": "ISRO scientists work on space missions, satellite technology, and defense projects.\n\nHow to become one? Hold an engineering or physics degree and clear ISRO recruitment tests."
+  },
+  {
+    "career_name": "Indian Intelligence Bureau (IB) Officer",
+    "short_description": "Handles internal intelligence and counterterrorism.",
+    "full_description": "IB officers gather intelligence on threats, conduct surveillance, and ensure national security.\n\nHow to become one? Clear UPSC exams or IB ACIO recruitment tests."
+  },
+  {
+    "career_name": "Ethical Hacker",
+    "short_description": "Cybersecurity expert who tests security systems.",
+    "full_description": "Ethical Hackers identify vulnerabilities in IT infrastructure, helping organizations prevent cyber attacks. They conduct penetration testing, analyze security flaws, and implement defense strategies.\n\nHow to become one? Obtain cybersecurity certifications like CEH (Certified Ethical Hacker), CISSP, or CompTIA Security+."
+  },
+  {
+    "career_name": "Blockchain Developer",
+    "short_description": "Develops blockchain-based applications and smart contracts.",
+    "full_description": "Blockchain Developers create decentralized applications (DApps), cryptocurrencies, and smart contracts using technologies like Ethereum and Hyperledger.\n\nHow to become one? Learn programming languages like Solidity, Rust, or Go. Gain knowledge in cryptography and distributed ledger technology."
+  },
+  {
+    "career_name": "AI & Machine Learning Engineer",
+    "short_description": "Builds intelligent systems using AI and ML models.",
+    "full_description": "AI Engineers develop machine learning algorithms for automation, natural language processing, and predictive analytics in industries like finance, healthcare, and robotics.\n\nHow to become one? Learn Python, TensorFlow, PyTorch, and AI-related mathematics (linear algebra, probability, statistics)."
+  },
+  {
+    "career_name": "Metaverse Architect",
+    "short_description": "Designs virtual worlds and 3D experiences in the metaverse.",
+    "full_description": "Metaverse Architects create digital environments for gaming, social interaction, and commerce using technologies like VR, AR, and AI.\n\nHow to become one? Learn 3D design (Blender, Unity, Unreal Engine), blockchain for virtual assets, and VR/AR development."
+  },
+  {
+    "career_name": "Astrobiologist",
+    "short_description": "Studies life beyond Earth.",
+    "full_description": "Astrobiologists research the possibility of extraterrestrial life, studying planetary conditions and microbial life in extreme environments.\n\nHow to become one? Study biology, chemistry, or physics, and specialize in space science."
+  },
+  {
+    "career_name": "Food Technologist",
+    "short_description": "Develops safe and nutritious food products.",
+    "full_description": "Food Technologists work in food safety, quality control, and innovation, creating sustainable and healthier food options.\n\nHow to become one? Earn a degree in food science, biotechnology, or agricultural engineering."
+  },
+  {
+    "career_name": "UX/UI Designer",
+    "short_description": "Enhances user experience in digital products.",
+    "full_description": "UI/UX Designers create intuitive user interfaces and improve customer engagement in apps, websites, and software.\n\nHow to become one? Learn design tools like Figma, Sketch, and Adobe XD, and understand user psychology."
+  },
+  {
+    "career_name": "Marine Biologist",
+    "short_description": "Studies marine ecosystems and ocean life.",
+    "full_description": "Marine Biologists research aquatic organisms, monitor ocean health, and contribute to marine conservation.\n\nHow to become one? Obtain a degree in marine biology, oceanography, or environmental science."
+  },
+  {
+    "career_name": "Forensic Scientist",
+    "short_description": "Investigates crimes using scientific methods.",
+    "full_description": "Forensic Scientists analyze DNA, fingerprints, and evidence to assist in criminal investigations.\n\nHow to become one? Pursue a degree in forensic science, chemistry, or criminal justice."
+  },
+  {
+    "career_name": "Game Developer",
+    "short_description": "Creates video games for consoles, PC, and mobile.",
+    "full_description": "Game Developers design gameplay mechanics, graphics, and interactive storytelling in game engines like Unity and Unreal.\n\nHow to become one? Learn programming (C++, C#) and 3D modeling."
+  },
+  {
+    "career_name": "Wildlife Photographer",
+    "short_description": "Captures images of nature and wildlife.",
+    "full_description": "Wildlife Photographers travel to natural habitats, documenting endangered species and ecosystems for conservation efforts.\n\nHow to become one? Gain photography skills, understand animal behavior, and invest in professional equipment."
+  },
+  {
+    "career_name": "Esports Professional",
+    "short_description": "Competes in professional video gaming tournaments.",
+    "full_description": "Esports players train in competitive games, participate in global tournaments, and earn sponsorship deals.\n\nHow to become one? Master a game, join a team, and participate in online leagues."
+  },
+  {
+    "career_name": "Cryptocurrency Analyst",
+    "short_description": "Studies digital assets and blockchain trends.",
+    "full_description": "Crypto Analysts assess market trends, trading patterns, and investment opportunities in the blockchain space.\n\nHow to become one? Learn financial analysis, blockchain technology, and crypto market behavior."
+  },
+  {
+    "career_name": "Fashion Stylist",
+    "short_description": "Advises individuals and brands on fashion trends.",
+    "full_description": "Fashion Stylists curate outfits, manage brand campaigns, and influence fashion aesthetics.\n\nHow to become one? Study fashion design or merchandising and build industry connections."
+  },
+  {
+    "career_name": "Cybercrime Investigator",
+    "short_description": "Investigates digital crimes like hacking and fraud.",
+    "full_description": "Cybercrime Investigators work with law enforcement to track online criminals, digital fraud, and cyber terrorism.\n\nHow to become one? Study cybersecurity, ethical hacking, or digital forensics."
+  },
+  {
+    "career_name": "Voice Actor",
+    "short_description": "Lends voice to characters in films, animations, and ads.",
+    "full_description": "Voice Actors specialize in dubbing, narration, and character voiceovers for entertainment and commercial use.\n\nHow to become one? Develop vocal skills, create a demo reel, and work with studios or agencies."
+  },
+  {
+    "career_name": "Space Engineer",
+    "short_description": "Designs and develops spacecraft and satellites.",
+    "full_description": "Space Engineers contribute to space exploration, satellite communication, and astronautics.\n\nHow to become one? Study aerospace engineering and gain experience with organizations like ISRO or NASA."
+  },
+  {
+    "career_name": "Sound Engineer",
+    "short_description": "Works on sound production in music, film, and live events.",
+    "full_description": "Sound Engineers handle audio mixing, recording, and mastering for media and entertainment.\n\nHow to become one? Study audio engineering, sound design, or music production."
+  },
+  {
+    "career_name": "Data Privacy Consultant",
+    "short_description": "Ensures companies comply with data protection laws.",
+    "full_description": "Privacy Consultants advise on GDPR, data security, and compliance with legal frameworks.\n\nHow to become one? Learn cybersecurity law, information security, and privacy regulations."
+  },
+  {
+    "career_name": "Sustainable Architect",
+    "short_description": "Designs eco-friendly buildings.",
+    "full_description": "Sustainable Architects focus on green building practices, energy-efficient designs, and environmentally conscious materials.\n\nHow to become one? Study architecture with a specialization in sustainable design."
+  },
+  {
+    "career_name": "Biomechanical Engineer",
+    "short_description": "Develops medical devices and artificial limbs.",
+    "full_description": "Biomechanical Engineers work in healthcare technology, designing prosthetics and wearable medical devices.\n\nHow to become one? Study biomedical or mechanical engineering."
+  },
+  {
+    "career_name": "Virtual Reality (VR) Developer",
+    "short_description": "Creates immersive digital experiences.",
+    "full_description": "VR Developers design simulations, training modules, and gaming experiences using VR technology.\n\nHow to become one? Learn VR development in Unity, Unreal Engine, or WebXR."
+  },
+  {
+    "career_name": "Archaeologist",
+    "short_description": "Studies human history through excavation and analysis.",
+    "full_description": "Archaeologists uncover and analyze historical artifacts, ancient structures, and cultural remnants to understand past civilizations. They work in excavation sites, museums, and research institutions.\n\nHow to become one? Obtain a degree in archaeology, anthropology, or history. Gain fieldwork experience and specialize in an era or region."
+  },
+  {
+    "career_name": "Zoologist",
+    "short_description": "Studies animal behavior, genetics, and conservation.",
+    "full_description": "Zoologists research wildlife, monitor ecosystems, and work in conservation projects to protect endangered species.\n\nHow to become one? Earn a degree in zoology, biology, or animal science. Gain field research experience and specialize in wildlife conservation."
+  },
+  {
+    "career_name": "Meteorologist",
+    "short_description": "Analyzes weather patterns and predicts climate changes.",
+    "full_description": "Meteorologists study atmospheric phenomena, forecast weather conditions, and contribute to climate science.\n\nHow to become one? Obtain a degree in meteorology, atmospheric science, or environmental studies."
+  },
+  {
+    "career_name": "Genetic Counselor",
+    "short_description": "Advises individuals on genetic risks and inherited diseases.",
+    "full_description": "Genetic Counselors work in healthcare, helping patients understand their genetic predisposition to diseases and make informed medical decisions.\n\nHow to become one? Study genetics, counseling, or biomedical science, and obtain certification in genetic counseling."
+  },
+  {
+    "career_name": "Astronomer",
+    "short_description": "Explores celestial objects and space phenomena.",
+    "full_description": "Astronomers study planets, stars, and galaxies, working in observatories and space research organizations like NASA or ISRO.\n\nHow to become one? Obtain a degree in astronomy, physics, or astrophysics. Gain expertise in computational modeling and telescope observation."
+  },
+  {
+    "career_name": "Art Conservator",
+    "short_description": "Preserves and restores historical artworks and artifacts.",
+    "full_description": "Art Conservators work in museums and galleries to restore paintings, sculptures, and historical artifacts, ensuring their longevity.\n\nHow to become one? Study fine arts, conservation science, or museum studies. Gain experience in restoration techniques."
+  },
+  {
+    "career_name": "Luxury Brand Manager",
+    "short_description": "Manages high-end fashion, jewelry, and luxury products.",
+    "full_description": "Luxury Brand Managers oversee marketing and brand strategy for premium products in industries like fashion, automobiles, and cosmetics.\n\nHow to become one? Study marketing, luxury management, or business administration. Gain experience in brand strategy."
+  },
+  {
+    "career_name": "Voice & Speech Therapist",
+    "short_description": "Helps individuals improve speech and communication skills.",
+    "full_description": "Speech Therapists assist individuals with speech disorders, voice issues, and communication difficulties.\n\nHow to become one? Earn a degree in speech-language pathology or audiology. Obtain certification and clinical experience."
+  },
+  {
+    "career_name": "Sports Analyst",
+    "short_description": "Analyzes sports performances and predicts game outcomes.",
+    "full_description": "Sports Analysts use statistics and data to evaluate team performance, helping coaches and teams improve their strategies.\n\nHow to become one? Study sports analytics, data science, or sports management."
+  },
+  {
+    "career_name": "Elderly Care Specialist",
+    "short_description": "Provides support and medical care for senior citizens.",
+    "full_description": "Elderly Care Specialists work in nursing homes, hospitals, and private care to assist senior citizens with daily activities and health needs.\n\nHow to become one? Study gerontology, healthcare, or social work. Obtain certification in elderly care."
+  },
+  {
+    "career_name": "Agricultural Engineer",
+    "short_description": "Designs equipment and systems for sustainable farming.",
+    "full_description": "Agricultural Engineers improve farming methods through automation, irrigation, and soil management.\n\nHow to become one? Obtain a degree in agricultural engineering or environmental science."
+  },
+  {
+    "career_name": "Cartographer",
+    "short_description": "Creates maps and spatial data visualizations.",
+    "full_description": "Cartographers work with geographic data to develop digital and physical maps for navigation, urban planning, and environmental monitoring.\n\nHow to become one? Study geography, GIS, or cartography. Gain expertise in mapping software."
+  },
+  {
+    "career_name": "Sommelier",
+    "short_description": "Wine expert specializing in selection and pairing.",
+    "full_description": "Sommeliers work in restaurants, hotels, and wineries, advising customers on wine choices and managing wine collections.\n\nHow to become one? Take sommelier certification courses and gain experience in fine dining."
+  },
+  {
+    "career_name": "Ethnomusicologist",
+    "short_description": "Studies cultural music traditions and influences.",
+    "full_description": "Ethnomusicologists analyze how music affects cultures and societies, working in academia, archives, and media.\n\nHow to become one? Study musicology, anthropology, or cultural studies."
+  },
+  {
+    "career_name": "Astrophotographer",
+    "short_description": "Captures celestial objects using advanced photography techniques.",
+    "full_description": "Astrophotographers use telescopes and cameras to take high-quality images of the night sky for scientific and artistic purposes.\n\nHow to become one? Learn astrophotography techniques, use specialized cameras, and understand astronomy."
+  },
+  {
+    "career_name": "Museum Curator",
+    "short_description": "Manages museum collections and exhibitions.",
+    "full_description": "Curators oversee artifact acquisitions, preservation, and educational displays in museums and galleries.\n\nHow to become one? Study art history, museum studies, or archaeology."
+  },
+  {
+    "career_name": "Aquatic Veterinarian",
+    "short_description": "Provides medical care for marine and freshwater animals.",
+    "full_description": "Aquatic Veterinarians treat fish, marine mammals, and amphibians, working in aquariums, zoos, and conservation projects.\n\nHow to become one? Obtain a veterinary degree with a specialization in aquatic animals."
+  },
+  {
+    "career_name": "Perfumer",
+    "short_description": "Creates fragrances and scents for perfumes and products.",
+    "full_description": "Perfumers blend aromatic compounds to develop perfumes, colognes, and scented products.\n\nHow to become one? Study chemistry or fragrance science and train under a professional perfumer."
+  },
+  {
+    "career_name": "Disaster Management Specialist",
+    "short_description": "Plans and coordinates emergency response strategies.",
+    "full_description": "Disaster Management Specialists work in government and NGOs to prepare for and respond to natural disasters and humanitarian crises.\n\nHow to become one? Study emergency management, public administration, or environmental science."
+  },
+  {
+    "career_name": "Toy Designer",
+    "short_description": "Creates and develops innovative toys for children.",
+    "full_description": "Toy Designers work in the entertainment industry to design educational and recreational toys for kids.\n\nHow to become one? Study industrial design, toy manufacturing, or animation."
+  },
+  {
+    "career_name": "Marine Salvage Expert",
+    "short_description": "Recovers and restores sunken ships and underwater assets.",
+    "full_description": "Marine Salvage Experts retrieve lost vessels, cargo, and artifacts from underwater locations, working with specialized diving equipment.\n\nHow to become one? Train in marine engineering, diving, or underwater archaeology."
+  },
+  {
+    "career_name": "Sleep Scientist",
+    "short_description": "Researches sleep patterns and disorders.",
+    "full_description": "Sleep Scientists study how sleep affects health, helping to develop treatments for insomnia, apnea, and other conditions.\n\nHow to become one? Study neuroscience, psychology, or sleep medicine."
+  },
+  {
+    "career_name": "Startup Founder",
+    "short_description": "Creates and manages a new business venture.",
+    "full_description": "Startup Founders build companies from the ground up, identifying market opportunities, developing products or services, and securing investments. They face high risk but also high potential rewards.\n\nHow to become one? Identify a business idea, conduct market research, develop a business plan, seek funding (investors, loans, bootstrapping), and build a team."
+  },
+  {
+    "career_name": "Small Business Owner",
+    "short_description": "Runs a local or niche business, handling daily operations.",
+    "full_description": "Small Business Owners manage local businesses like retail stores, cafes, or consulting firms. They oversee everything from finances to customer service and marketing.\n\nHow to become one? Choose a business type, create a business plan, register legally, and manage finances effectively."
+  },
+  {
+    "career_name": "CEO (Chief Executive Officer)",
+    "short_description": "Leads an organization, making top-level business decisions.",
+    "full_description": "CEOs set a company’s vision, oversee operations, and drive growth. They work with executives to execute business strategies and ensure profitability.\n\nHow to become one? Gain leadership experience, understand business management, and develop strong decision-making skills."
+  },
+  {
+    "career_name": "COO (Chief Operating Officer)",
+    "short_description": "Manages company operations, ensuring smooth business processes.",
+    "full_description": "COOs focus on day-to-day business operations, efficiency, and productivity. They often work closely with CEOs to implement strategies.\n\nHow to become one? Gain experience in operations, logistics, and management, often through executive roles."
+  },
+  {
+    "career_name": "CFO (Chief Financial Officer)",
+    "short_description": "Manages financial strategy and budgeting for companies.",
+    "full_description": "CFOs oversee financial planning, risk management, and investments, ensuring the financial health of an organization.\n\nHow to become one? Earn a degree in finance or accounting, gain corporate financial management experience, and develop strong analytical skills."
+  },
+  {
+    "career_name": "Angel Investor",
+    "short_description": "Provides capital to early-stage startups in exchange for equity.",
+    "full_description": "Angel Investors fund startups and mentor entrepreneurs, helping them grow their businesses.\n\nHow to become one? Accumulate wealth, understand startup valuations, and invest in promising business ideas."
+  },
+  {
+    "career_name": "Venture Capitalist",
+    "short_description": "Invests in startups with high growth potential.",
+    "full_description": "Venture Capitalists provide funding to early-stage companies in exchange for equity, helping them scale through mentorship and financial backing.\n\nHow to become one? Work in finance, gain experience in startup investment, and join a venture capital firm or create your own fund."
+  },
+  {
+    "career_name": "Business Consultant",
+    "short_description": "Advises businesses on strategy, operations, and growth.",
+    "full_description": "Business Consultants analyze company performance and provide strategic solutions for efficiency, profitability, and expansion.\n\nHow to become one? Gain expertise in a business domain, build a network, and offer consulting services."
+  },
+  {
+    "career_name": "Corporate Trainer",
+    "short_description": "Educates employees on skills and corporate processes.",
+    "full_description": "Corporate Trainers design and conduct professional development programs for businesses to improve employee productivity and performance.\n\nHow to become one? Gain expertise in a business field, develop training materials, and work with corporations."
+  },
+  {
+    "career_name": "E-commerce Entrepreneur",
+    "short_description": "Runs an online business selling products or services.",
+    "full_description": "E-commerce Entrepreneurs leverage platforms like Shopify, Amazon, or independent websites to sell goods and services globally.\n\nHow to become one? Learn digital marketing, set up an online store, optimize sales strategies, and manage supply chains."
+  },
+  {
+    "career_name": "Franchise Owner",
+    "short_description": "Operates a business under a larger brand's model.",
+    "full_description": "Franchise Owners run businesses under established brands (e.g., McDonald's, Subway), following corporate guidelines while managing daily operations.\n\nHow to become one? Invest in a franchise, follow brand regulations, and manage operations effectively."
+  },
+  {
+    "career_name": "Social Entrepreneur",
+    "short_description": "Creates businesses to solve social problems.",
+    "full_description": "Social Entrepreneurs focus on impact-driven business models, addressing issues like poverty, education, and sustainability.\n\nHow to become one? Identify a social problem, develop a sustainable solution, and secure funding through grants or investments."
+  },
+  {
+    "career_name": "Serial Entrepreneur",
+    "short_description": "Continuously launches multiple startups across industries.",
+    "full_description": "Serial Entrepreneurs establish and scale multiple businesses, often selling them after success and moving to new ventures.\n\nHow to become one? Develop a strong entrepreneurial mindset, gain funding, and execute multiple business ideas."
+  },
+  {
+    "career_name": "CIO (Chief Information Officer)",
+    "short_description": "Oversees IT and digital transformation strategies in organizations.",
+    "full_description": "CIOs manage a company’s technology infrastructure, ensuring cybersecurity, software development, and system optimization.\n\nHow to become one? Gain experience in IT management, business strategy, and enterprise software development."
+  },
+  {
+    "career_name": "Corporate Lawyer",
+    "short_description": "Handles legal aspects of business operations and contracts.",
+    "full_description": "Corporate Lawyers specialize in company law, mergers, and intellectual property rights, ensuring businesses comply with regulations.\n\nHow to become one? Earn a law degree, specialize in corporate law, and work with businesses on legal matters."
+  },
+  {
+    "career_name": "Financial Analyst",
+    "short_description": "Assesses financial data to help businesses make investment decisions.",
+    "full_description": "Financial Analysts evaluate market trends, investments, and financial risks, helping businesses optimize financial strategies.\n\nHow to become one? Study finance, accounting, or economics, and gain experience in investment analysis."
+  },
+  {
+    "career_name": "HR Manager",
+    "short_description": "Manages recruitment, employee relations, and company culture.",
+    "full_description": "HR Managers oversee hiring, training, payroll, and workplace policies to ensure organizational success.\n\nHow to become one? Study human resources, business administration, or psychology, and gain HR experience."
+  },
+  {
+    "career_name": "Digital Marketer",
+    "short_description": "Uses online strategies to promote businesses and brands.",
+    "full_description": "Digital Marketers leverage SEO, social media, PPC, and content marketing to increase brand visibility and sales.\n\nHow to become one? Learn digital marketing skills, use online platforms, and stay updated on trends."
+  },
+  {
+    "career_name": "Product Manager",
+    "short_description": "Oversees product development and market strategy.",
+    "full_description": "Product Managers work with tech teams, designers, and marketers to develop and launch successful products.\n\nHow to become one? Gain experience in product development, market analysis, and user experience."
+  },
+  {
+    "career_name": "Investment Banker",
+    "short_description": "Provides financial advisory and investment services to corporations.",
+    "full_description": "Investment Bankers assist businesses in fundraising, mergers, and acquisitions, often working with high-net-worth clients.\n\nHow to become one? Study finance or economics, gain experience in banking, and develop strong analytical skills."
+  },
+  {
+    "career_name": "Business Intelligence Analyst",
+    "short_description": "Analyzes business data to improve decision-making.",
+    "full_description": "BI Analysts work with data analytics tools to help companies understand customer behavior and market trends.\n\nHow to become one? Study data analytics, business intelligence tools, and gain experience in data-driven decision-making."
+  },
+  {
+    "career_name": "Supply Chain Manager",
+    "short_description": "Optimizes logistics, procurement, and inventory management.",
+    "full_description": "Supply Chain Managers ensure efficient product distribution, reducing costs and improving operational efficiency.\n\nHow to become one? Study logistics, business management, or supply chain analytics."
+  },
+  {
+    "career_name": "Chartered Accountant (CA)",
+    "short_description": "Handles financial audits, taxation, and financial management.",
+    "full_description": "Chartered Accountants manage corporate finance, taxation, financial audits, and advisory services. They ensure businesses comply with financial laws and optimize tax efficiency.\n\nHow to become one? Complete CA exams (CPT, IPCC, and Final) through ICAI, undergo 3 years of internship (Articleship), and obtain ICAI certification."
+  },
+  {
+    "career_name": "Cost Accountant",
+    "short_description": "Focuses on cost control, budgeting, and financial planning.",
+    "full_description": "Cost Accountants analyze production costs, prepare budgets, and optimize financial management for businesses, ensuring profitability.\n\nHow to become one? Complete the ICWAI/CMA course (Foundation, Intermediate, and Final) through the Institute of Cost Accountants of India (ICAI-CMA)."
+  },
+  {
+    "career_name": "Auditor",
+    "short_description": "Examines financial records for accuracy and compliance.",
+    "full_description": "Auditors conduct financial audits for companies, government agencies, and individuals to ensure compliance with laws and prevent fraud.\n\nHow to become one? Obtain a degree in accounting or finance, become a CA or CPA, and gain auditing experience."
+  },
+  {
+    "career_name": "Tax Consultant",
+    "short_description": "Advises individuals and companies on tax-saving strategies.",
+    "full_description": "Tax Consultants help businesses and individuals optimize tax payments and stay compliant with tax laws. They assist with filing returns, tax planning, and dispute resolution.\n\nHow to become one? Get a degree in finance or law, complete CA or LLB with tax specialization, and gain expertise in tax laws."
+  },
+  {
+    "career_name": "Forensic Accountant",
+    "short_description": "Investigates financial fraud and legal disputes.",
+    "full_description": "Forensic Accountants detect financial fraud, money laundering, and financial irregularities in businesses, working with law enforcement and corporate clients.\n\nHow to become one? Earn an accounting degree, complete CA or CPA, and gain expertise in forensic accounting."
+  },
+  {
+    "career_name": "Financial Planner",
+    "short_description": "Helps individuals manage wealth and investments.",
+    "full_description": "Financial Planners advise individuals on wealth management, retirement planning, and investment strategies, ensuring long-term financial stability.\n\nHow to become one? Obtain a CFP (Certified Financial Planner) certification, understand investment strategies, and build expertise in financial advisory."
+  },
+  {
+    "career_name": "Investment Analyst",
+    "short_description": "Researches financial markets to guide investment decisions.",
+    "full_description": "Investment Analysts study market trends, stocks, and financial instruments to help investors and businesses make informed financial decisions.\n\nHow to become one? Obtain a finance or economics degree, gain CFA (Chartered Financial Analyst) certification, and work in investment firms."
+  },
+  {
+    "career_name": "Banking Professional",
+    "short_description": "Works in financial institutions managing loans, investments, and customer relations.",
+    "full_description": "Banking Professionals handle customer accounts, loans, and corporate finance. They work in retail banking, investment banking, and corporate finance sectors.\n\nHow to become one? Obtain a degree in banking, finance, or commerce, and pass bank recruitment exams (SBI PO, IBPS, RBI Grade B)."
+  },
+  {
+    "career_name": "Risk Manager",
+    "short_description": "Identifies and manages financial risks for businesses.",
+    "full_description": "Risk Managers analyze financial risks, market fluctuations, and credit risks to safeguard business operations and investments.\n\nHow to become one? Obtain a finance or risk management degree, gain certifications like FRM (Financial Risk Manager) or PRM (Professional Risk Manager)."
+  },
+  {
+    "career_name": "Corporate Treasurer",
+    "short_description": "Manages a company’s financial assets and liquidity.",
+    "full_description": "Corporate Treasurers oversee company finances, cash flow, and investment portfolios, ensuring financial stability and risk management.\n\nHow to become one? Study finance or accounting, gain experience in treasury management, and obtain CFA or CTP (Certified Treasury Professional) certification."
+  },
+  {
+    "career_name": "Company Secretary (CS)",
+    "short_description": "Handles corporate governance and compliance with legal regulations.",
+    "full_description": "Company Secretaries ensure businesses adhere to legal and regulatory requirements, handling corporate law, mergers, and annual reporting.\n\nHow to become one? Complete CS exams (Foundation, Executive, and Professional) through ICSI (Institute of Company Secretaries of India)."
+  },
+  {
+    "career_name": "Stock Market Analyst",
+    "short_description": "Analyzes stock market trends and advises on trading strategies.",
+    "full_description": "Stock Market Analysts study financial markets, predict stock movements, and guide investment decisions for individuals and companies.\n\nHow to become one? Study finance, economics, or business, gain CFA certification, and learn technical and fundamental analysis."
+  },
+  {
+    "career_name": "Actuary",
+    "short_description": "Uses mathematics to assess financial risks in insurance and investment sectors.",
+    "full_description": "Actuaries apply statistics and financial modeling to predict risks in insurance, pensions, and corporate investments.\n\nHow to become one? Complete actuarial exams through the Institute of Actuaries of India (IAI) and gain expertise in risk analysis."
+  },
+  {
+    "career_name": "Treasury Analyst",
+    "short_description": "Manages company funds, cash flow, and financial forecasting.",
+    "full_description": "Treasury Analysts ensure businesses have sufficient cash flow, managing financial transactions and investment planning.\n\nHow to become one? Earn a finance degree, gain experience in banking or corporate finance, and pursue CTP certification."
+  },
+  {
+    "career_name": "Credit Analyst",
+    "short_description": "Evaluates the creditworthiness of individuals and businesses.",
+    "full_description": "Credit Analysts assess loan applications, credit scores, and risk factors for banks, ensuring safe lending practices.\n\nHow to become one? Obtain a finance degree, gain experience in banking, and develop expertise in financial analysis."
+  },
+  {
+    "career_name": "Wealth Manager",
+    "short_description": "Advises high-net-worth individuals on investments and asset management.",
+    "full_description": "Wealth Managers help clients grow and protect their assets through financial planning, tax strategies, and investment management.\n\nHow to become one? Earn a finance or economics degree, gain CFP or CFA certification, and build expertise in investment advisory."
+  },
+  {
+    "career_name": "Private Equity Analyst",
+    "short_description": "Manages investments in private companies and startups.",
+    "full_description": "Private Equity Analysts evaluate business investment opportunities, conduct due diligence, and manage financial portfolios for firms.\n\nHow to become one? Study finance, gain investment experience, and develop expertise in private equity analysis."
+  },
+  {
+    "career_name": "Loan Officer",
+    "short_description": "Processes and approves loan applications for individuals and businesses.",
+    "full_description": "Loan Officers assess financial documents, analyze borrower eligibility, and approve or reject loans for banks and NBFCs.\n\nHow to become one? Gain experience in banking, study finance, and clear bank entrance exams."
+  },
+  {
+    "career_name": "Tax Auditor",
+    "short_description": "Verifies tax compliance and audits corporate tax filings.",
+    "full_description": "Tax Auditors ensure that businesses and individuals adhere to tax laws, preventing fraud and misreporting.\n\nHow to become one? Become a CA or CPA and specialize in tax auditing."
+  },
+  {
+    "career_name": "Astrobiologist",
+    "short_description": "Studies the possibility of life beyond Earth.",
+    "full_description": "Astrobiologists explore the origins, evolution, and future of life in the universe. They analyze extreme environments on Earth to understand where life might exist on other planets.\n\nHow to become one? Earn a degree in biology, chemistry, or physics, then specialize in astrobiology through a master's or PhD. Work with space agencies like NASA or research institutions."
+  },
+  {
+    "career_name": "Ethical Hacker",
+    "short_description": "Protects computer systems by testing their vulnerabilities.",
+    "full_description": "Ethical hackers, also known as white-hat hackers, help organizations secure their systems by simulating cyberattacks. They find weaknesses before malicious hackers can exploit them.\n\nHow to become one? Learn programming and networking, get certified in ethical hacking (CEH, OSCP), and gain hands-on experience in cybersecurity."
+  },
+  {
+    "career_name": "Theme Park Engineer",
+    "short_description": "Designs and builds amusement park rides and attractions.",
+    "full_description": "Theme Park Engineers work in mechanical, structural, and electrical engineering to create safe and thrilling rides for amusement parks worldwide.\n\nHow to become one? Earn a degree in mechanical, structural, or electrical engineering. Gain experience in ride design and safety testing. Work with amusement park developers."
+  },
+  {
+    "career_name": "Food Scientist",
+    "short_description": "Develops and improves food products for better taste and safety.",
+    "full_description": "Food Scientists study the chemistry and biology of food to enhance flavors, extend shelf life, and ensure safety. They work in food production, quality control, and nutrition research.\n\nHow to become one? Obtain a degree in food science, chemistry, or microbiology. Gain experience in food manufacturing or research labs."
+  },
+  {
+    "career_name": "Renewable Energy Consultant",
+    "short_description": "Advises on sustainable energy solutions like solar and wind power.",
+    "full_description": "Renewable Energy Consultants help businesses and governments transition to clean energy sources. They assess energy needs and recommend solar, wind, or hydro solutions.\n\nHow to become one? Earn a degree in environmental science, engineering, or sustainability. Gain experience in renewable energy projects."
+  },
+  {
+    "career_name": "Esports Coach",
+    "short_description": "Trains professional gaming teams for competitive tournaments.",
+    "full_description": "Esports Coaches analyze gameplay strategies, train players, and prepare teams for global gaming competitions. They work with professional teams and individual players.\n\nHow to become one? Gain expertise in competitive gaming, study team management, and work with esports teams as an analyst or assistant coach."
+  },
+  {
+    "career_name": "AI Ethics Consultant",
+    "short_description": "Ensures artificial intelligence is developed responsibly and ethically.",
+    "full_description": "AI Ethics Consultants work with tech companies and policymakers to ensure artificial intelligence systems are fair, transparent, and unbiased.\n\nHow to become one? Study ethics, law, or AI development. Gain expertise in AI regulations, data privacy, and social impact of AI."
+  },
+  {
+    "career_name": "Foley Artist",
+    "short_description": "Creates realistic sound effects for movies and TV shows.",
+    "full_description": "Foley Artists use objects and tools to produce sound effects that enhance movie and television scenes. They replicate footsteps, door creaks, and other background noises.\n\nHow to become one? Study sound design or film production. Gain experience in audio recording and work with movie production studios."
+  },
+  {
+    "career_name": "Perfumer",
+    "short_description": "Designs fragrances for perfumes and beauty products.",
+    "full_description": "Perfumers, also known as 'noses,' blend natural and synthetic scents to create unique fragrances. They work for perfume brands, cosmetic companies, and luxury product manufacturers.\n\nHow to become one? Study chemistry or perfumery, train with a fragrance house, and develop a deep knowledge of scent composition."
+  },
+  {
+    "career_name": "Space Lawyer",
+    "short_description": "Handles legal matters related to space exploration and satellite laws.",
+    "full_description": "Space Lawyers advise governments and corporations on space regulations, satellite communication, and international space treaties.\n\nHow to become one? Study law, specialize in space law through international courses, and work with space agencies or legal firms handling aerospace contracts."
+  },
+  {
+    "career_name": "Marine Biotechnologist",
+    "short_description": "Studies marine organisms for medical and industrial applications.",
+    "full_description": "Marine Biotechnologists research ocean life to develop medicines, biofuels, and sustainable materials. They analyze marine organisms' genetic and chemical properties.\n\nHow to become one? Earn a degree in marine biology or biotechnology, specialize in marine applications, and work with research labs or biotech firms."
+  },
+  {
+    "career_name": "Urban Planner",
+    "short_description": "Designs and plans city spaces for sustainable development.",
+    "full_description": "Urban Planners create strategies for efficient land use, transportation, and environmental conservation in growing cities. They work with governments and private developers.\n\nHow to become one? Get a degree in urban planning, architecture, or geography. Gain experience in city development projects."
+  }
+]
