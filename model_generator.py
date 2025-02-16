@@ -7,7 +7,6 @@ import pickle
 with open('career_description_dataset.json', 'r', encoding='utf-8') as file:
     career_data = json.load(file)
 
-# Extract relevant fields
 career_names = []
 descriptions = []
 
